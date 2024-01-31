@@ -3,8 +3,11 @@
 
 title: The Catalyst Project
 author: The Catalyst Project Team
-logo: logo.png
+email: catalyst-project-core-team@googlegroups.com
+logo: images/logo/catalyst-text-dark-rectangle.png
 copyright: '2024'
+description: >-
+   This is The Catalyst Project brochure website, built with JupyterBook. 
 
 # Force re-execution of notebooks on each build.
 # See https://jupyterbook.org/content/execute.html
@@ -31,3 +34,18 @@ repository:
 html:
   use_issues_button: true
   use_repository_button: true
+  home_page_in_navbar: false
+  favicon: images/logo/favicon.ico
+
+parse:
+  myst_enable_extensions:  # default extensions to enable in the myst parser. See https://myst-parser.readthedocs.io/en/latest/using/syntax-optional.html
+    - amsmath
+    - colon_fence
+    - deflist
+    - dollarmath
+    - html_admonition
+    - html_image
+    - linkify
+    - replacements
+    - smartquotes
+    - substitution
