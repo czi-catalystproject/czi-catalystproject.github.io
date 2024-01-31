@@ -25,14 +25,14 @@ We recommend editing the contents of this repo using the 2i2c Community Showcase
    
    and follow the prompts to enter your code at [https://github.com/login/device](https://github.com/login/device)
 
-> [!CAUTION]
-> We do not recommend entering your GitHub credentials (GitHub password, personal access tokens or otherwise) on any kind of shared infrastructure (e.g. private and public cloud, HPC, any remote machine) as this information will be at risk. We highly advise using `gh-scoped-creds` for authentication on our hubs. Read [this article](https://blog.jupyter.org/securely-pushing-to-github-from-a-jupyterhub-3ee42dfdc54f) for more information.
-
 1. Git clone [this project repo](https://github.com/czi-catalystproject/website) using the Terminal with the command
 
    ```shell
    jovyan@jupyter-user:~$ git clone https://github.com/czi-catalystproject/website.git
    ```
+
+> [!CAUTION]
+> We do not recommend entering your GitHub credentials (GitHub password, personal access tokens or otherwise) on any kind of shared infrastructure (e.g. private and public cloud, HPC, any remote machine) as this information will be at risk. We highly advise using `gh-scoped-creds` for authentication on our hubs. Read [this article](https://blog.jupyter.org/securely-pushing-to-github-from-a-jupyterhub-3ee42dfdc54f) for more information.
 
 1. Follow the [how-to-guide](https://2i2c.org/community-showcase/community/content/authoring.html) for authoring and previewing content using Jupyter Book.
 
