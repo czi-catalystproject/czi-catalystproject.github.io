@@ -52,6 +52,16 @@ Go to the [GH repo](https://github.com/czi-catalystproject/website), click *Sett
 
 The GitHub App [2i2c Community Showcase Hub](https://showcase.2i2c.cloud/) is currently installed on `czi-catalystproject/website` and `czi-catalystproject/hub-champion-training` repos to enable `gh-scoped-creds`.
 
+## Acknowledgements and Funding
+
+We would like to acknowledge Chan Zuckerberg Initiative funding for the "A Collaborative Interactive Computing Service Model for Global Communities" project and our partner organisations:
+
+- [2i2c](https://2i2c.org/)
+- [The Carpentries](https://carpentries.org/about/)
+- [Center for Scientific Collaboration and Community Engagement](https://www.cscce.org/)
+- [Invest in Open Infrastructure](https://investinopen.org/)
+- [MetaDocencia](https://www.metadocencia.org/)
+- [Open Life Science](https://openlifesci.org/)
 
 ## Get in Touch
 
