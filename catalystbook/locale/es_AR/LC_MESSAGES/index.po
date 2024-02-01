@@ -1,0 +1,110 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024
+# This file is distributed under the same license as the Python package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Python \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-02-01 12:04+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: es_AR\n"
+"Language-Team: es_AR <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.13.0\n"
+
+msgid "About"
+msgstr "Quiénes somos"
+
+msgid "Blog"
+msgstr ""
+
+msgid "Catalyst Project logo"
+msgstr ""
+
+msgid ""
+"Delivering open science cloud infrastructure and training for communities"
+" in Latin America and Africa"
+msgstr ""
+
+msgid "Our goal ☁️"
+msgstr ""
+
+msgid ""
+"Create a collaborative cloud infrastructure service that enables cloud-"
+"native workflows."
+msgstr ""
+
+msgid "Open Science 🧪️"
+msgstr ""
+
+msgid ""
+"We promote values of open science and inclusive community practices to "
+"share expertise."
+msgstr ""
+
+msgid "Train-the-Trainers 👩‍🏫"
+msgstr ""
+
+msgid ""
+"We implement a train-the-trainers approach to empower communities to "
+"fully leverage their infrastructure."
+msgstr ""
+
+msgid "Our focus 🎯"
+msgstr ""
+
+msgid ""
+"Communities in Latin America and Africa from the Biomedical, Health and "
+"Public Health Sciences that are historically marginalized from large-"
+"scale scientific infrastructure projects."
+msgstr ""
+
+msgid "The Catalyst Project"
+msgstr "El Proyecto Catalyst"
+
+msgid ""
+"We are seeking organisations in Africa and Latin America to partner with."
+" By joining The Catalyst Project, you and your user community will have "
+"access to"
+msgstr ""
+
+msgid ""
+"✅ A free interactive cloud computing hub for 1 year   ✅ Support and "
+"technical training on making the best use of the cloud computing resource"
+"   ✅ A \"Train-the-Trainers\" program to learn the teaching and "
+"pedagogical skills to transfer expertise to your user community   ✅ Open "
+"science training and mentoring to develop good leadership practices for "
+"transparent and accessible research   ✅ Translation and contextualization"
+" of resources to Spanish for Latin American commmunities   ✅ Shaping our "
+"governance model to help us sustain, scale and maximise impact"
+msgstr ""
+
+msgid "Interested? Get in touch with us!"
+msgstr ""
+
+msgid ""
+"If you are interested in partnering with us, then we would love to hear "
+"from you."
+msgstr ""
+
+msgid ""
+"[catalyst-project-core-team@googlegroups.com](mailto:catalyst-project-"
+"core-team@googlegroups.com)"
+msgstr ""
+
+msgid "Acknowledgements"
+msgstr ""
+
+msgid "Chan Zuckerberg Initiative logo"
+msgstr ""
+
+msgid "We wish to thank the Chan-Zuckerberg Initiative for funding this project."
+msgstr ""
+
