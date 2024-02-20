@@ -1,7 +1,5 @@
 (register)=
 # Register
 
-<iframe width="100%" height="100%" src="https://airtable.com/appUAGdjB57UjvkhC/pagkqUKckqQ9lahsZ/form" title="W3Schools Free Online Web Tutorials">
-</iframe>
-
+<iframe class="airtable-embed" src="https://airtable.com/embed/appUAGdjB57UjvkhC/pagkqUKckqQ9lahsZ/form" frameborder="0" onmousewheel="" width="100%" height="2048" style="background: transparent; border: 1px solid #ccc;"></iframe>
 
