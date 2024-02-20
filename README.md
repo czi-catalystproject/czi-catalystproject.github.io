@@ -1,6 +1,6 @@
 # The Catalyst Project Website
 
-This repo contains the Jupyter Book source files for the [catalystproject.cloud](#) brochure site.
+This repo contains the Jupyter Book source files for the [catalystproject.cloud](https://catalystproject.cloud/) brochure site.
 
 ## About the Catalyst Project
 
