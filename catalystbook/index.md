@@ -80,12 +80,28 @@ We are seeking organisations in Africa and Latin America to partner with. By joi
 
 If you are interested in partnering with us, then we would love to hear from you.
 
-<!-- Would be nice to insert a structured form here  -->
+:::::{grid} 2
+::::{grid-item-card} 📝 Register
+Get on board and register your community with the Catalyst Project.
 
-:::{card} ✉️ Email
+:::{button-ref} register
+:ref-type: doc
+:color: primary
+:class: sd-rounded-pill float-left
 
-[catalyst-project-core-team@googlegroups.com](mailto:catalyst-project-core-team@googlegroups.com)
+Register
+
 :::
+
+::::
+
+::::{grid-item-card} ✉️ Email
+For general enquiries, send us an email at 
+[catalyst-project-core-team@googlegroups.com](mailto:catalyst-project-core-team@googlegroups.com).
+
+::::
+
+:::::
 
 ## Acknowledgements
 
