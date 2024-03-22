@@ -1,14 +1,36 @@
-# Announcing the First Hub Champion Training Workshop (English Version)
+# Hub Champion Training Workshop (English Version)
 
 The Catalyst Project are delighted to announce that the first Hub Champion Training workshop (English Version) will be held online on:
 
-Date – Part One: 22 April 2024
-Time – Part One: 13:00-14:00 UTC
+:::::{grid} 2
+:reverse:
 
-Date – Part Two: 29 April 2024
-Time – Part Two: 13:00-14:00 UTC
+::::{grid-item}
+:columns: 4
+:class: sd-m-auto
 
+:::{image} https://raw.githubusercontent.com/czi-catalystproject/hub-champion-training/301423f28ec9a049b3c2c9e6df51ed44f27691de/media/logos/hub-champion-training/logo.svg
+:alt: Hub Champion Training logo
+:::
+
+::::
+
+::::{grid-item}
+:columns: 8
+
+**Date – Part One:** 22 April 2024 \
+**Time – Part One:** 13:00-14:00 UTC
+<br>
+<br>
+**Date – Part Two:** 29 April 2024 \
+**Time – Part Two:** 13:00-14:00 UTC
+<br>
+<br>
 Check the time in your time zone: [https://dateful.com/eventlink/1443134388](https://dateful.com/eventlink/1443134388)
+
+::::
+
+:::::
 
 This lesson is aimed at Hub Champions in charge of their community’s 2i2c managed JupyterHubs in the cloud. Workshop attendees will learn the fundamentals of administering their hub and providing user support to their research and education communities.
 
