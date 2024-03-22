@@ -3,13 +3,7 @@
 
 format: jb-book
 root: index
-parts:
-- chapters:
+chapters:
   - file: register
-- caption: About
-  chapters:
-  - file: about/project
-  - file: about/team
-- caption: Blog
-  chapters:
-  - file:  blog/post
+  - file: blog/2024-04-hub-champion-training
+  - file: privacy
