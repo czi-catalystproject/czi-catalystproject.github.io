@@ -5,10 +5,10 @@ format: jb-book
 root: index
 chapters:
   - file: register
-  - file: about/about
-  - file: about/project
-  - file: about/team
-  - file: about/community-partnership
-  - file: about/contact
+  - file: content/about
+  - file: content/project
+  - file: content/team
+  - file: content/community-partnership
+  - file: content/contact
   - file: blog/2024-04-hub-champion-training
   - file: privacy
