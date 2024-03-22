@@ -47,7 +47,7 @@ html:
         </div>
         <div class="sd-col sd-d-flex-column sd-col-5 sd-col-xs-5 sd-col-sm-5 sd-col-md-5 sd-col-lg-5 ms-auto docutils">
           <a class="reference internal" href="privacy.html">
-            <span class="sd-sphinx-override sd-badge sd-bg-success sd-bg-text-success">Privacy Policy</span>
+            <span class="sd-sphinx-override sd-badge sd-bg-primary sd-bg-text-primary" style="width: 116px; height: 20px;">Privacy Policy</span>
           </a>
           <br>
           <a href="https://creativecommons.org/licenses/by/4.0/" rel="nofollow"><img src="https://camo.githubusercontent.com/a4156f3ce1cb60b704f4a9f7d32476efe01928af853d509ec4f8163354a26e0a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c6963656e73652d43435f42595f342e302d6c69676874677265792e737667" alt="License: CC BY 4.0" data-canonical-src="https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg" style="max-width: 100%;"></a>
