@@ -1,27 +1,4 @@
-:::::{grid} 2
-:reverse:
-
-::::{grid-item}
-:columns: 4
-:class: sd-m-auto
-
-:::{image} images/logo/catalyst-icon-dark.png
-:alt: Catalyst Project logo
-:::
-
-::::
-
-::::{grid-item}
-:columns: 8
-:class: sd-fs-3
-
-The Catalyst Project
-
-Delivering open science cloud infrastructure, and relevant training for biomedical research communities in Africa and Latin America
-
-::::
-
-:::::
+# The Catalyst Project
 
 The Catalyst Project is a community-engaged initiative designed to support the adoption of open science principles in under-served biomedical research communities through the provision of reliable and sustainable cloud computing infrastructure. 
 
@@ -46,7 +23,33 @@ The Catalyst Project is staffed by members of the following organisations:
 :width: 10%
 :::
 
+:::{image} ./images/core-team-logos/thecarpentries-logo.png
+:alt: The Carpentries logo
+:width: 20%
+:::
+
+:::{image} ./images/core-team-logos/md-logo.png
+:alt: MetaDocencia logo
+:width: 20%
+:::
+
+:::{image} ./images/core-team-logos/ioi-logo.png
+:alt: The Carpentries logo
+:width: 20%
+:::
+
 :::{image} ./images/core-team-logos/ols-logo.png
 :alt: OLS logo
 :width: 10%
 :::
+
+:::{image} ./images/core-team-logos/cscce-logo.png
+:alt: CSCCE logo
+:width: 20%
+:::
+
+[Meet the members of the Core Project Team](./about/team.md)
+
+## Contact the Catalyst Project
+
+If you have questions about our work, or would like to partner with us, please visit our [contact page](./about/contact.md) for more information. 
