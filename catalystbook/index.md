@@ -15,116 +15,38 @@
 :columns: 8
 :class: sd-fs-3
 
-Delivering open science cloud infrastructure and training for communities in Latin America and Africa
+The Catalyst Project
+
+Delivering open science cloud infrastructure, and relevant training for biomedical research communities in Africa and Latin America
 
 ::::
 
 :::::
 
-::::{grid} 1 1 2 2
-:class-container: text-center 
-:gutter: 3
+The Catalyst Project is a community-engaged initiative designed to support the adoption of open science principles in under-served biomedical research communities through the provision of reliable and sustainable cloud computing infrastructure. 
 
-:::{grid-item-card}
-:class-header: bg-light
+The project, which is funded by the Chan Zuckerberg Initiative (CZI), is a collaboration between  seven organisations, who bring the  breadth of open science skills and backgrounds needed. These include expertise in: technology deployment, community building and governance, training development and delivery, as well as organisations with  existing connections in our partner locations. 
 
-Our goal ☁️
-^^^
+Our work is continuously influenced by contextual feedback from the biomedical researchers, engineers, and computer scientists that we serve in Africa and Latin America. 
 
-Create a collaborative cloud infrastructure service that enables cloud-native workflows.
+[Learn more about the project](./about/about.md)
+
+## Get Involved
+
+If you’re working at a research institution or nonprofit in Africa or Latin America, and you need high-throughput computing infrastructure to undertake biomedical research or data science training efforts, we’d love to hear from you!
+
+[Find out more about Catalyst Project Community Partnership](./about/community-partnership.md)
+
+## Catalyst Project Core Team
+
+The Catalyst Project is staffed by members of the following organisations: 
+
+:::{image} ./images/core-team-logos/2i2c-logo.png
+:alt: 2i2c logo
+:width: 10%
 :::
 
-:::{grid-item-card}
-:class-header: bg-light
-
-Open Science 🧪️
-^^^
-
-We promote values of open science and inclusive community practices to share expertise.
-
+:::{image} ./images/core-team-logos/ols-logo.png
+:alt: OLS logo
+:width: 10%
 :::
-
-:::{grid-item-card}
-:class-header: bg-light
-
-Train-the-Trainers 👩‍🏫
-^^^
-
-We implement a train-the-trainers approach to empower communities to fully leverage their infrastructure.
-
-:::
-
-:::{grid-item-card}
-:class-header: bg-light
-
-Our focus 🎯
-^^^
-
-Communities in Latin America and Africa from the Biomedical, Health and Public Health Sciences that are historically marginalized from large-scale scientific infrastructure projects.
-:::
-
-::::
-
-## The Catalyst Project
-
-We are seeking organisations in Africa and Latin America to partner with. By joining The Catalyst Project, you and your user community will have access to
-
-✅ A free interactive cloud computing hub for 1 year  
-✅ Support and technical training on making the best use of the cloud computing resource  
-✅ A "Train-the-Trainers" program to learn the teaching and pedagogical skills to transfer expertise to your user community  
-✅ Open science training and mentoring to develop good leadership practices for transparent and accessible research  
-✅ Translation and contextualization of resources to Spanish for Latin American commmunities  
-✅ Shaping our governance model to help us sustain, scale and maximise impact
-
-## Interested? Get in touch with us!
-
-If you are interested in partnering with us, then we would love to hear from you.
-
-:::::{grid} 2
-::::{grid-item-card} 📝 Register
-Get on board and register your community with the Catalyst Project.
-
-:::{button-ref} register
-:ref-type: doc
-:color: primary
-:class: sd-rounded-pill float-left
-
-Register
-
-:::
-
-::::
-
-::::{grid-item-card} ✉️ Email
-For general enquiries, send us an email at 
-[catalyst-project-core-team@googlegroups.com](mailto:catalyst-project-core-team@googlegroups.com).
-
-::::
-
-:::::
-
-## Acknowledgements
-
-:::::{grid} 2
-:reverse:
-
-::::{grid-item}
-:columns: 4
-
-:::{image} images/Chan_Zuckerberg_Initiative.svg
-:alt: Chan Zuckerberg Initiative logo
-:class: m-auto
-:width: 200px
-
-:::
-
-::::
-
-::::{grid-item}
-:columns: 8
-
-We wish to thank the Chan-Zuckerberg Initiative for funding this project.
-
-::::
-
-:::::
