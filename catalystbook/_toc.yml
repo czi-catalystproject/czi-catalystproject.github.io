@@ -3,13 +3,9 @@
 
 format: jb-book
 root: index
-parts:
-- chapters:
+chapters:
   - file: register
-- caption: About
-  chapters:
+  - file: about/about
   - file: about/project
   - file: about/team
-- caption: Blog
-  chapters:
-  - file:  blog/post
+  - file: about/community-partnership
