@@ -8,7 +8,6 @@ jupyter-book
 sphinx
 sphinx-autobuild
 sphinx-copybutton
-git+https://github.com/2i2c-org/sphinx-2i2c-theme
 sphinx-design
 sphinxext-rediraffe
 tabulate
