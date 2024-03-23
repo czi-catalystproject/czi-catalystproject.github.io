@@ -1,3 +1,17 @@
 body {
     --sd-color-primary: #59981a;
+    --sd-color-primary-highlight: #e89217;
+    --pst-color-link: #59981a;
+    
+    --pst-font-family-heading: Roboto, var(--pst-font-family-base-system);    
+}
+
+nav.bd-links .current > a {
+    color: var(--sd-color-primary);
+    box-shadow: inset max(3px,.1875rem,.12em) 0 0 var(--sd-color-primary);
+}
+
+.toc-entry a.nav-link.active {
+    color: var(--sd-color-primary);
+    box-shadow: inset max(3px,.1875rem,.12em) 0 0 var(--sd-color-primary);
 }
