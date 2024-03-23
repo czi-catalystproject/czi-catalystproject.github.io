@@ -4,7 +4,6 @@
 format: jb-book
 root: index
 chapters:
-  - file: register
   - file: content/about
   - file: content/project
   - file: content/team
