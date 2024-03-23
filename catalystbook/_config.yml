@@ -40,7 +40,7 @@ html:
     <div class="sd-container-fluid sd-sphinx-override sd-my-4 docutils">
       <div class="sd-row sd-row-cols-2 sd-row-cols-xs-2 sd-row-cols-sm-2 sd-row-cols-md-2 sd-row-cols-lg-2 docutils">
         <div class="sd-col sd-d-flex-column sd-col-2 sd-col-xs-2 sd-col-sm-2 sd-col-md-2 sd-col-lg-2 docutils">
-          <a><img alt="Chan Zuckerberg Initiative logo" class="m-auto" src="https://raw.githubusercontent.com/czi-catalystproject/website/6569fdcfd426f91f53faf86356093bbed2de2593/catalystbook/images/Chan_Zuckerberg_Initiative.svg"></a>
+          <a href="https://chanzuckerberg.com/"><img alt="Chan Zuckerberg Initiative logo" class="m-auto" src="https://raw.githubusercontent.com/czi-catalystproject/website/6569fdcfd426f91f53faf86356093bbed2de2593/catalystbook/images/Chan_Zuckerberg_Initiative.svg"></a>
         </div>
         <div class="sd-col sd-d-flex-column sd-col-5 sd-col-xs-5 sd-col-sm-5 sd-col-md-5 sd-col-lg-5 docutils">
           <p>The Catalyst Project is supported by the Chan-Zuckerberg Initiative.</p>
@@ -75,6 +75,7 @@ sphinx:
   config:
     language: en
     html_show_copyright: false
+    html_last_updated_fmt: '%b %d, %Y'
     nb_render_priority:
       gettext: {}
     locale_dirs: ['locale/']
