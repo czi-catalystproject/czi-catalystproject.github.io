@@ -1,3 +1,3 @@
-# Example post
+# Contact us
 
 Placeholder text.
