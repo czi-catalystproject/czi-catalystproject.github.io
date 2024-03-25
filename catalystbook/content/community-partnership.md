@@ -70,42 +70,65 @@ We are currently accepting applications from organisations located in Africa and
 
 ### Africa
 
-::::{grid} 2
-
-::::{grid-item}
-:columns: 12
-
-:::{image} ../images/community-partner-logos/must-logo.png
-:alt: Malawi University of Science and Technology logo 
-:width: 20%
+:::{card} 
+:link: https://nm-aist.ac.tz/
+The Nelson Mandela African Institution of Science and Technology (NM-AIST), Arusha, Tanzania
 :::
 
-::::
-
-::::{grid-item}
-:columns: 12
-
-:::{image} ../images/community-partner-logos/uvri-logo.png
-:alt: Uganda Virus Research Institute logo 
-:width: 20%
+:::{card} 
+:link: https://www.must.ac.mw/
+Malawi University of Science and Technology (MUST), Mikolongwe, Malawi
 :::
 
-::::
-
-::::{grid-item}
-
-:::{image} ../images/community-partner-logos/nmaist-logo.png
-:alt: The Nelson Mandela African Institution of Science and Technology logo 
-:width: 100%
+:::{card} 
+:link: https://www.uvri.go.ug/
+Uganda Virus Research Institute (UVRI), Entebbe, Uganda
 :::
 
-::::
+:::{card} 
+Kush Centre for Genomics & Biomedical Informatics, Khartoum, Sudan
+:::
 
-:::::
+:::{card} 
+:link: https://www.wits.ac.za/
+University of the Witwatersrand, Johannesburg, South Africa
+:::
 
+:::{card} 
+MolerHealth, Nigeria
+:::
 
+:::{card} 
+:link: https://bhki.org/
+Bioinformatics Hub of Kenya Initiative, Kenya
+:::
 
+:::{card} 
+Bioinformatics Outreach Nigeria, Nigeria
+:::
 
+:::{card} 
+:link: http://aibst.com/
+African Institute of Biomedical Sciences and Technology (AiBST), Zimbabwe
+:::
 
 ### Latin America
+
+:::{card} 
+:link: https://unitefa.conicet.unc.edu.ar/
+Unidad de Investigación y Desarrollo en Tecnología Farmacéutica (UNITEFA), Córdoba, Argentina
+:::
+
+:::{card} 
+:link: https://cicada.uy/
+Centro Interdisciplinario en Ciencia de Datos y Aprendizaje Automático (CICADA), Montevideo, Uruguay
+:::
+
+:::{card} 
+:link: https://gita.udea.edu.co/
+GITA Lab, Medellín, Colombia
+:::
+
+
+
 
