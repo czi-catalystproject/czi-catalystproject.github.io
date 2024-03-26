@@ -7,7 +7,7 @@ If you are interested in partnering with the Catalyst Project, please [get in to
 :::{button-link} team.html
 :color: primary
 :expand:
-Find out more about the Catalyst Project Core Team.
+Find out more about the Catalyst Project Core Team
 :::
 
 ## What is the Catalyst Project cloud infrastructure? 
