@@ -47,8 +47,6 @@ Khartoum, Sudan
 University of the Witwatersrand
 +++
 Johannesburg, South Africa
-+++
-Footer
 :::
 
 :::{grid-item-card}
@@ -78,6 +76,7 @@ Nigeria
 
 :::{grid-item-card}
 :img-top: images/community-partner-logos/aibst-logo.jpg
+:img-alt: Logo for African Institute of Biomedical Sciences and Technology
 :link: http://aibst.com/
 African Institute of Biomedical Sciences and Technology (AiBST)
 +++
@@ -88,21 +87,34 @@ Zimbabwe
 
 ## Latin America
 
-:::{card} 
+::::{grid} 3
+:gutter: 1
+
+:::{grid-item-card}
+:img-top: images/community-partner-logos/unitefa-logo.png
+:img-alt: Logo for Unidad de Investigación y Desarrollo en Tecnología Farmacéutica
 :link: https://unitefa.conicet.unc.edu.ar/
-Unidad de Investigación y Desarrollo en Tecnología Farmacéutica (UNITEFA), Córdoba, Argentina
+Unidad de Investigación y Desarrollo en Tecnología Farmacéutica (UNITEFA)
++++
+Córdoba, Argentina
 :::
 
-:::{card} 
+:::{grid-item-card}
+:img-top: images/community-partner-logos/cicada-logo.png
+:img-alt: Logo for Centro Interdisciplinario en Ciencia de Datos y Aprendizaje Automático
 :link: https://cicada.uy/
-Centro Interdisciplinario en Ciencia de Datos y Aprendizaje Automático (CICADA), Montevideo, Uruguay
+Centro Interdisciplinario en Ciencia de Datos y Aprendizaje Automático (CICADA)
++++
+Montevideo, Uruguay
 :::
 
-:::{card} 
+:::{grid-item-card}
+:img-top: images/community-partner-logos/gita-logo.png
+:img-alt: Logo for GITA Lab
 :link: https://gita.udea.edu.co/
-GITA Lab, Medellín, Colombia
+GITA Lab
++++
+Medellín, Colombia
 :::
 
-
-
-
+::::
