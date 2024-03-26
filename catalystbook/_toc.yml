@@ -4,8 +4,8 @@
 format: jb-book
 root: index
 chapters:
-  - file: content/community-partnership
-  - file: content/team  
+#   - file: content/community-partnership
+#   - file: content/team
   - file: content/contact
   - file: blog/2024-04-hub-champion-training
   - file: privacy
