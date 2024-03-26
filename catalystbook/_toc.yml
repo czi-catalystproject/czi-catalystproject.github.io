@@ -5,6 +5,8 @@ format: jb-book
 root: index
 parts:
   - chapters:
+    - file: community-partnership
+    - file: training
     - url: https://catalystproject.cloud/hub-champion-training/
       title: Hub Champion Training lesson website
     - file: contact
