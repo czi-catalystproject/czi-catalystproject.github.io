@@ -6,6 +6,12 @@ root: index
 parts:
   - chapters:
     - file: about
+    - file: community-partnership
+      sections: 
+        - file: current-community-partners
+  - chapters:
+    - file: team
+    - file: training
     - url: https://catalystproject.cloud/hub-champion-training/
       title: Hub Champion Training lesson website
     - file: contact
