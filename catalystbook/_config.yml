@@ -2,9 +2,9 @@
 # Learn more at https://jupyterbook.org/customize/config.html
 
 title: The Catalyst Project
-author: The Catalyst Project Team
+author: The Catalyst Project Core Team
 email: catalyst-project-core-team@googlegroups.com
-logo: images/logo/catalyst-text-dark-rectangle.png
+logo: images/catalyst-logo/catalyst-logo-dark-bg-white.png
 copyright: '2024'
 description: >-
    This is The Catalyst Project brochure website, built with JupyterBook. 
@@ -35,7 +35,25 @@ html:
   use_issues_button: true
   use_repository_button: true
   home_page_in_navbar: false
-  favicon: images/logo/favicon.ico
+  favicon: images/catalyst-logo/favicon.ico
+  extra_footer: |
+    <div class="sd-container-fluid sd-sphinx-override sd-my-4 docutils">
+      <div class="sd-row sd-row-cols-2 sd-row-cols-xs-2 sd-row-cols-sm-2 sd-row-cols-md-2 sd-row-cols-lg-2 docutils">
+        <div class="sd-col sd-d-flex-column sd-col-2 sd-col-xs-2 sd-col-sm-2 sd-col-md-2 sd-col-lg-2 docutils">
+          <a href="https://chanzuckerberg.com/"><img alt="Chan Zuckerberg Initiative logo" class="m-auto" src="https://raw.githubusercontent.com/czi-catalystproject/website/6569fdcfd426f91f53faf86356093bbed2de2593/catalystbook/images/Chan_Zuckerberg_Initiative.svg"></a>
+        </div>
+        <div class="sd-col sd-d-flex-column sd-col-5 sd-col-xs-5 sd-col-sm-5 sd-col-md-5 sd-col-lg-5 docutils">
+          <p>The Catalyst Project is supported by the Chan-Zuckerberg Initiative.</p>
+        </div>
+        <div class="sd-col sd-d-flex-column sd-col-5 sd-col-xs-5 sd-col-sm-5 sd-col-md-5 sd-col-lg-5 ms-auto docutils">
+          <a class="reference internal" href="privacy.html">
+            <span class="sd-sphinx-override sd-badge sd-bg-primary sd-bg-text-primary" style="width: 116px; height: 20px;">Privacy Policy</span>
+          </a>
+          <br>
+          <a href="https://creativecommons.org/licenses/by/4.0/" rel="nofollow"><img src="https://camo.githubusercontent.com/a4156f3ce1cb60b704f4a9f7d32476efe01928af853d509ec4f8163354a26e0a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c6963656e73652d43435f42595f342e302d6c69676874677265792e737667" alt="License: CC BY 4.0" data-canonical-src="https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg" style="max-width: 100%;"></a>
+        </div>        
+      </div>        
+    </div>
 
 parse:
   myst_enable_extensions:  # default extensions to enable in the myst parser. See https://myst-parser.readthedocs.io/en/latest/using/syntax-optional.html
@@ -56,14 +74,8 @@ sphinx:
 #   - sphinx_inline_tabs
   config:
     language: en
-    html_last_updated_fmt: '%b %d, %Y'
     html_show_copyright: false
-    html_search_language: ja     # 才能正確 parse 詞語
-    html_css_files: ["https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.2/css/all.min.css"]    # for FontAwesome 6.1 icons (the defaults are version 5)
-        # see https://sphinx-design.readthedocs.io/en/latest/badges_buttons.html
-    # html_theme_options:
-      # toc_title: 段落
-    # i18n
+    html_last_updated_fmt: '%b %d, %Y'
     nb_render_priority:
       gettext: {}
     locale_dirs: ['locale/']
