@@ -62,20 +62,27 @@ The Catalyst Project is staffed by members of the following organisations:
 :::::{grid} 3
 
 ::::{grid-item}
-[CCAD logo](https://ccad.unc.edu.ar/)
-::::
-
-::::{grid-item}
 :::{image} ./images/core-team-logos/ols-logo.png
 :alt: OLS logo
+:align: center
 :width: 35%
 :target: https://openlifesci.org/
+:::
+::::
+
+::::{grid-item} 
+:::{image} ./images/core-team-logos/ccad-logo.png
+:alt: CCAD logo
+:align: center
+:width: 80%
+:target: https://ccad.unc.edu.ar/
 :::
 ::::
 
 ::::{grid-item}
 :::{image} ./images/core-team-logos/2i2c-logo.png
 :alt: 2i2c logo
+:align: center
 :width: 35%
 :target: https://2i2c.org/
 :::
