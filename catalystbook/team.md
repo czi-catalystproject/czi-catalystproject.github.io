@@ -1,3 +1,3 @@
-# Mission
+# Team
 
 Placeholder text.

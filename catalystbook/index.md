@@ -84,7 +84,7 @@ If you are interested in partnering with us, then we would love to hear from you
 ::::{grid-item-card} 📝 Register
 Get on board and register your community with the Catalyst Project.
 
-:::{button-ref} register
+:::{button-link} contact.html#community-partner-application-form
 :ref-type: doc
 :color: primary
 :class: sd-rounded-pill float-left

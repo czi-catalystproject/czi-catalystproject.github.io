@@ -13,7 +13,7 @@ Community Partners also play a vital role in shaping our governance model to hel
 :::{button-link} contact.html#community-partner-application-form
 :color: primary
 :expand:
-You can apply to become a Community Partner.
+Apply to become a Community Partner
 :::
 
 ## Community Partner benefits

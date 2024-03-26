@@ -1,4 +1,4 @@
-# Hub Champion Training Workshop (English Version)
+# April 2024 – Hub Champion Training Workshop (English Version)
 
 The Catalyst Project are delighted to announce that the first Hub Champion Training workshop (English Version) will be held online on:
 
