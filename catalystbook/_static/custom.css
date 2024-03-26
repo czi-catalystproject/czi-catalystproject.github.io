@@ -19,3 +19,11 @@ nav.bd-links .current > a {
 .sd-card-hover:hover {
   border-color: var(--sd-color-primary);
 }
+
+.sd-card-img-top {
+  border: 1px solid #ddd;
+  padding: 1rem;    
+  width: 100%;
+  height: 15vw;
+  object-fit: scale-down;
+}
