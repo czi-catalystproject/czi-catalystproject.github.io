@@ -1,3 +1,0 @@
-# About
-
-Placeholder text.
