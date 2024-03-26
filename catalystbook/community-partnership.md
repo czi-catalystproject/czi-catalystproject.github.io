@@ -30,7 +30,7 @@ Community Partners will have access to three types of training opportunities dur
 
 #### Hub Champion training
 
-2i2c, in collaboration with MetaDocencia and The Carpentries, is developing technical [training materials](../blog/2024-04-hub-champion-training.md) for communities participating in the Catalyst Project to learn how to administer the 2i2c cloud infrastructure. These training materials will be available in English and Spanish.
+2i2c, in collaboration with MetaDocencia and The Carpentries, have developed technical [training materials](https://catalystproject.cloud/hub-champion-training) for communities participating in the Catalyst Project to learn how to administer the 2i2c cloud infrastructure. These training materials will be available in English and Spanish.
 
 #### Train the Trainer workshop
 
@@ -43,7 +43,7 @@ Members of participating communities will have the opportunity to take part in a
 :::{button-link} training.html
 :color: primary
 :expand:
-Visit our training page for more information about these training options.
+Visit our training page for more information about these training options
 :::
 
 (responsibilities)=
@@ -58,7 +58,7 @@ For all partnerships, there are two key roles that communities need to assign:
 
 As the individual reaching out to the Catalyst Project, you may choose to take on both of these roles yourself or nominate other members of your community.
 
-The Catalyst Project Core Team will interact with Community Partners throughout the project to understand how to improve the service to create a sustainable cloud infrastructure solution for all communities. 
+The Catalyst Project Core Team will interact with Community Partners throughout the project to understand how to improve the service to create a sustainable cloud infrastructure solution for all communities.
 
 ## How to become a Catalyst Project Community Partner
 
@@ -66,69 +66,8 @@ The first step in becoming a Community Partner is to complete this {ref}`short a
 
 We are currently accepting applications from organisations located in Africa and Latin America. For expressions of interest from elsewhere in the world, please send us an email: [catalyst-project-core-team@googlegroups.com](mailto:catalyst-project-core-team@googlegroups.com). 
 
-## Current Community Partners
-
-### Africa
-
-:::{card} 
-:link: https://nm-aist.ac.tz/
-The Nelson Mandela African Institution of Science and Technology (NM-AIST), Arusha, Tanzania
+:::{button-ref} current-community-partners
+:color: primary
+:expand:
+View current community partners
 :::
-
-:::{card} 
-:link: https://www.must.ac.mw/
-Malawi University of Science and Technology (MUST), Mikolongwe, Malawi
-:::
-
-:::{card} 
-:link: https://www.uvri.go.ug/
-Uganda Virus Research Institute (UVRI), Entebbe, Uganda
-:::
-
-:::{card} 
-Kush Centre for Genomics & Biomedical Informatics, Khartoum, Sudan
-:::
-
-:::{card} 
-:link: https://www.wits.ac.za/
-University of the Witwatersrand, Johannesburg, South Africa
-:::
-
-:::{card} 
-MolerHealth, Nigeria
-:::
-
-:::{card} 
-:link: https://bhki.org/
-Bioinformatics Hub of Kenya Initiative, Kenya
-:::
-
-:::{card} 
-Bioinformatics Outreach Nigeria, Nigeria
-:::
-
-:::{card} 
-:link: http://aibst.com/
-African Institute of Biomedical Sciences and Technology (AiBST), Zimbabwe
-:::
-
-### Latin America
-
-:::{card} 
-:link: https://unitefa.conicet.unc.edu.ar/
-Unidad de Investigación y Desarrollo en Tecnología Farmacéutica (UNITEFA), Córdoba, Argentina
-:::
-
-:::{card} 
-:link: https://cicada.uy/
-Centro Interdisciplinario en Ciencia de Datos y Aprendizaje Automático (CICADA), Montevideo, Uruguay
-:::
-
-:::{card} 
-:link: https://gita.udea.edu.co/
-GITA Lab, Medellín, Colombia
-:::
-
-
-
-
