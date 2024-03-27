@@ -125,7 +125,7 @@ MetaDocencia
 
 MetaDocencia’s mission is to advance innovation with a local perspective that responsibly builds scientific and technical capacities through the co-creation of networks, learning spaces, and accessible resources for Spanish-speaking communities.
 
-Catalyst Project role: MetaDocencia is identifying communities in Latin America to participate in Catalyst, and onboarding and connecting them to other project partners. MetaDocencia is also assisting with contextualising lesson materials to Latin American audiences, designing the Catalyst project’s governance, and developing and improving documentation.
+**Catalyst Project role:** MetaDocencia is identifying communities in Latin America to participate in Catalyst, and onboarding and connecting them to other project partners. MetaDocencia is also assisting with contextualising lesson materials to Latin American audiences, designing the Catalyst project’s governance, and developing and improving documentation.
 
 ::::
 
