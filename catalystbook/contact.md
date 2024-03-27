@@ -1,4 +1,4 @@
-# Contact the Catalyst Project
+# Contact
 
 ## General enquiries
 
