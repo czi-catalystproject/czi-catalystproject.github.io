@@ -1,3 +1,3 @@
-# Contact us
+# Team
 
 Placeholder text.
