@@ -1,3 +1,0 @@
-# Contact
-
-Placeholder text.
