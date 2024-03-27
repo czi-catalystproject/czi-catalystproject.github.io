@@ -4,7 +4,7 @@ The Catalyst Project is a community-engaged collaboration working to build susta
 
 If you are interested in partnering with the Catalyst Project, please [get in touch with us](contact.md)!
 
-:::{button-link} team.html
+:::{button-ref} team
 :color: primary
 :expand:
 Find out more about the Catalyst Project Core Team
@@ -38,7 +38,7 @@ Catalyst Project Community Partners join our network for an initial period of on
 
 Community Partners are also invited to collaborate with the Catalyst Project Core Team to refine processes and resources so that they meet the needs of their specific context - this includes translating and contextualising resources for communities in Latin America in collaboration with MetaDocencia.  
 
-:::{button-link} community-partner.html
+:::{button-ref} community-partnership
 :color: primary
 :expand:
 Find out more about becoming a Community Partner!
