@@ -14,7 +14,7 @@ The Carpentries
 :columns: 4
 :child-align: center
 
-:::{image} ../images/core-team-logos/thecarpentries-logo.png
+:::{image} images/core-team-logos/thecarpentries-logo.png
 :alt: The Carpentries logo
 :width: 100%
 :align: center
@@ -47,7 +47,7 @@ CSCCE (Center for Scientific Collaboration and Community Engagement)
 :columns: 4
 :child-align: center
 
-:::{image} ../images/core-team-logos/cscce-logo.png
+:::{image} images/core-team-logos/cscce-logo.png
 :alt: CSCCE logo
 :width: 100%
 :align: center
@@ -80,7 +80,7 @@ IOI (Invest in Open Infrastructure)
 :columns: 4
 :child-align: center
 
-:::{image} ../images/core-team-logos/ioi-logo.png
+:::{image} images/core-team-logos/ioi-logo.png
 :alt: IOI logo
 :width: 100%
 :align: center
@@ -112,7 +112,7 @@ MetaDocencia
 :columns: 4
 :child-align: center
 
-:::{image} ../images/core-team-logos/md-logo.png
+:::{image} images/core-team-logos/md-logo.png
 :alt: MetaDocencia logo
 :width: 100%
 :align: center
@@ -125,7 +125,7 @@ MetaDocencia
 
 MetaDocencia’s mission is to advance innovation with a local perspective that responsibly builds scientific and technical capacities through the co-creation of networks, learning spaces, and accessible resources for Spanish-speaking communities.
 
-Catalyst Project role: MetaDocencia is identifying communities in Latin America to participate in Catalyst, and onboarding and connecting them to other project partners. MetaDocencia is also assisting with contextualising lesson materials to Latin American audiences, designing the Catalyst project’s governance, and developing and improving documentation.
+**Catalyst Project role:** MetaDocencia is identifying communities in Latin America to participate in Catalyst, and onboarding and connecting them to other project partners. MetaDocencia is also assisting with contextualising lesson materials to Latin American audiences, designing the Catalyst project’s governance, and developing and improving documentation.
 
 ::::
 
@@ -145,7 +145,7 @@ OLS (Open Life Science)
 :columns: 4
 :child-align: center
 
-:::{image} ../images/core-team-logos/ols-logo.png
+:::{image} images/core-team-logos/ols-logo.png
 :alt: OLS logo
 :width: 50%
 :align: center
@@ -177,7 +177,7 @@ CCAD - UNC Supercómputo
 :columns: 4
 :child-align: center
 
-:::{image} ../images/core-team-logos/ccad-logo.png
+:::{image} images/core-team-logos/ccad-logo.png
 :alt: CCAD logo
 :width: 100%
 :align: center
@@ -209,7 +209,7 @@ CCAD is the HPC centre of the National University of Córdoba, Argentina. CCAD h
 :columns: 4
 :child-align: center
 
-:::{image} ../images/core-team-logos/2i2c-logo.png
+:::{image} images/core-team-logos/2i2c-logo.png
 :alt: 2i2c logo
 :width: 50%
 :align: center

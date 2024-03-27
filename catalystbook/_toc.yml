@@ -3,8 +3,15 @@
 
 format: jb-book
 root: index
-chapters:
-  - file: register
-  - file: content/team
-  - file: blog/2024-04-hub-champion-training
-  - file: privacy
+parts:
+  - chapters:
+    - file: team
+    - url: https://catalystproject.cloud/hub-champion-training/
+      title: Hub Champion Training lesson website
+    - file: contact
+  - caption: Blog
+    chapters:
+    - file: blog/2024-04-hub-champion-training
+  - caption: Reference
+    chapters:
+    - file: privacy

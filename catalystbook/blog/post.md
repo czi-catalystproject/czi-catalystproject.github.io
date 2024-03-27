@@ -1,3 +1,0 @@
-# Example post
-
-Placeholder text.
