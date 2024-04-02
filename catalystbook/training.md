@@ -5,7 +5,7 @@ The Catalyst Project offers three training opportunities for Community Partners.
 
 :::{button-ref} community-partnership
 :color: primary
-:expand:
+
 Find out more about Community Partner roles
 :::
 

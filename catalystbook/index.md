@@ -8,7 +8,7 @@ Our work is continuously influenced by contextual feedback from the biomedical r
 
 :::{button-ref} about
 :color: primary
-:expand:
+
 Learn more about the project
 :::
 
@@ -18,7 +18,7 @@ If you’re working at a research institution or nonprofit in Africa or Latin Am
 
 :::{button-ref} community-partnership
 :color: primary
-:expand:
+
 Find out more about Catalyst Project Community Partnership
 :::
 
@@ -92,7 +92,7 @@ The Catalyst Project is staffed by members of the following organisations:
 
 :::{button-ref} team
 :color: primary
-:expand:
+
 Meet the members of the Core Team
 :::
 

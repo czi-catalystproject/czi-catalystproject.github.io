@@ -12,7 +12,7 @@ Community Partners also play a vital role in shaping our governance model to hel
 
 :::{button-link} contact.html#community-partner-application-form
 :color: primary
-:expand:
+
 Apply to become a Community Partner
 :::
 
@@ -42,8 +42,8 @@ Members of participating communities will have the opportunity to take part in a
 
 :::{button-link} training.html
 :color: primary
-:expand:
-Visit our training page for more information about these training options
+
+More information about training
 :::
 
 (responsibilities)=
@@ -68,6 +68,6 @@ We are currently accepting applications from organisations located in Africa and
 
 :::{button-ref} current-community-partners
 :color: primary
-:expand:
+
 View current community partners
 :::

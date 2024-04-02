@@ -6,7 +6,7 @@ If you are interested in partnering with the Catalyst Project, please [get in to
 
 :::{button-ref} team
 :color: primary
-:expand:
+
 Find out more about the Catalyst Project Core Team
 :::
 
@@ -40,7 +40,7 @@ Community Partners are also invited to collaborate with the Catalyst Project Cor
 
 :::{button-ref} community-partnership
 :color: primary
-:expand:
+
 Find out more about becoming a Community Partner!
 :::
 
