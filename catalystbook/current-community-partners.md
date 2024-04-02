@@ -2,7 +2,7 @@
 
 ## Africa
 
-::::{grid} 3
+::::{grid} 1 1 3 3
 :gutter: 1
 
 :::{grid-item-card}
@@ -87,7 +87,7 @@ Zimbabwe
 
 ## Latin America
 
-::::{grid} 3
+::::{grid} 1 1 3 3
 :gutter: 1
 
 :::{grid-item-card}

@@ -1,8 +1,9 @@
 body {
     --sd-color-primary: #4f8419;
-    --sd-color-primary-highlight: #922D50;
-    --pst-color-link: #4f8419;
-    
+    --pst-color-secondary: #922D50;
+    --sd-color-primary-highlight: var(--pst-color-secondary);
+    --pst-color-link: var(--sd-color-primary);
+    --pst-color-link-hover: var(--pst-color-secondary);
     --pst-font-family-heading: Roboto, var(--pst-font-family-base-system);    
 }
 
@@ -24,6 +25,6 @@ nav.bd-links .current > a {
   border: 1px solid #ddd;
   padding: 1rem;    
   width: 100%;
-  height: 15vw;
+  height: 25vh;
   object-fit: scale-down;
 }

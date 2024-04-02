@@ -28,7 +28,8 @@ The Catalyst Project is staffed by members of the following organisations:
 
 <br>
 
-:::::{grid} 4
+:::::{grid} 1 1 4 4
+:gutter: 1
 
 ::::{grid-item}
 :::{image} ./images/core-team-logos/thecarpentries-logo.png
@@ -59,7 +60,8 @@ The Catalyst Project is staffed by members of the following organisations:
 ::::
 :::::
 
-:::::{grid} 3
+:::::{grid} 1 1 3 3
+:gutter: 1
 
 ::::{grid-item}
 :::{image} ./images/core-team-logos/ols-logo.png
