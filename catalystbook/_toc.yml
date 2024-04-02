@@ -11,6 +11,8 @@ parts:
       - file: current-community-partners
   - chapters:
     - file: team
+      sections:
+      - file: people
     - file: training
       sections:
       - url: https://catalystproject.cloud/hub-champion-training/

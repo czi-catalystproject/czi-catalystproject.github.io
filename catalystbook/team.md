@@ -1,6 +1,6 @@
 # Team
 
-The Catalyst Project Core Team includes personnel from seven open science organisations:
+The Catalyst Project Core Team includes personnel from seven open science organisations. To find out more about the individual team members check out the People page.
 
 ::::::{card}
 :link: https://carpentries.org/about/
