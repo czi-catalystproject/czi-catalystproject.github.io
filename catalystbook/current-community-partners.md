@@ -33,8 +33,8 @@ Entebbe, Uganda
 :::
 
 :::{grid-item-card}
-:img-top: images/community-partner-logos/kush-placeholder.png
-:img-alt: Placeholder image for Kush Centre for Genomics & Biomedical Informatics
+:img-top: images/community-partner-logos/kush-logo.png
+:img-alt: Logo for Kush Centre for Genomics & Biomedical Informatics
 Kush Centre for Genomics & Biomedical Informatics
 +++
 Khartoum, Sudan
@@ -50,8 +50,8 @@ Johannesburg, South Africa
 :::
 
 :::{grid-item-card}
-:img-top: images/community-partner-logos/molerhealth-placeholder.png
-:img-alt: Placeholder image for MolerHealth
+:img-top: images/community-partner-logos/molerhealth-logo.png
+:img-alt: Logo for MolerHealth
 MolerHealth
 +++
 Nigeria

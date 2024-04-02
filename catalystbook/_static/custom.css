@@ -1,7 +1,7 @@
 body {
-    --sd-color-primary: #59981a;
-    --sd-color-primary-highlight: #e89217;
-    --pst-color-link: #59981a;
+    --sd-color-primary: #4f8419;
+    --sd-color-primary-highlight: #922D50;
+    --pst-color-link: #4f8419;
     
     --pst-font-family-heading: Roboto, var(--pst-font-family-base-system);    
 }
