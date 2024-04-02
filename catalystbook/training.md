@@ -25,7 +25,7 @@ In combination with the Train-the-Trainer workshop, participants in this trainin
 
 **Supported languages:** This workshop, and associated materials, will be available in English and Spanish. 
 
-**Registration information:** Community Partner leaders are to be contacted by email. See the event page for the [April 2024 – Hub Champion Training workshop (English Version)](blog/2024-04-hub-champion-training).
+**Registration information:** Community Partner leaders will be contacted by email. See the event page for the [April 2024 – Hub Champion Training workshop (English Version)](blog/2024-04-hub-champion-training).
 
 ## Train the Trainer Workshop
 
@@ -44,7 +44,7 @@ After the Hub Champions take both the Hub Champion training and the “Train the
 
 **Supported languages:** This workshop is currently available in English. 
 
-**Registration information:** See the [Upcoming Instructor Training Calendar](https://carpentries.github.io/instructor-training/training_calendar#upcoming-instructor-training) for dates. 
+**Registration information:** See the [Upcoming Instructor Training Calendar](https://carpentries.github.io/instructor-training/training_calendar#upcoming-instructor-training) for dates. Community Partner leaders will be contacted by email.
 
 ## Open Science Training and Mentoring
 
@@ -62,7 +62,7 @@ Participating in this training will also connect learners to a growing community
 
 **Supported languages:** This training is only available in English. 
 
-**Registration information:** to be confirmed.
+**Registration information:** Applications open July 1 2024 and Community Partner leaders will be contacted by email.
 
 ## More information
 
