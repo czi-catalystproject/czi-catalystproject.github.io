@@ -5,7 +5,7 @@ The Catalyst Project Core Team includes personnel from seven open science organi
 ::::::{card}
 :link: https://carpentries.org/about/
 
-The Carpentries
+**The Carpentries**
 ^^^
 
 :::::{grid} 1 1 2 2
@@ -39,7 +39,7 @@ The Carpentries build global capacity in essential data and computational skills
 ::::::{card}
 :link: https://www.cscce.org/
 
-CSCCE (Center for Scientific Collaboration and Community Engagement)
+**CSCCE (Center for Scientific Collaboration and Community Engagement)**
 ^^^
 
 :::::{grid} 1 1 2 2
@@ -73,7 +73,7 @@ CSCCE is a training and research centre to professionalise and institutionalise 
 ::::::{card}
 :link: http://investinopen.org
 
-IOI (Invest in Open Infrastructure)
+**IOI (Invest in Open Infrastructure)**
 ^^^
 
 :::::{grid} 1 1 2 2
@@ -106,7 +106,7 @@ IOI works to increase the investment in and adoption of open infrastructure to f
 ::::::{card}
 :link: http://metadocencia.org
 
-MetaDocencia
+**MetaDocencia**
 ^^^
 
 :::::{grid} 1 1 2 2
@@ -140,7 +140,7 @@ MetaDocencia’s mission is to advance innovation with a local perspective that 
 ::::::{card} 
 :link: http://openlifesci.org
 
-OLS (Open Life Science)
+**OLS (Open Life Science)**
 ^^^
 
 :::::{grid} 1 1 2 2
@@ -173,7 +173,7 @@ OLS is an open science capacity building organisation with a mission to upskill,
 ::::::{card} 
 :link: https://ccad.unc.edu.ar/
 
-CCAD - UNC Supercómputo
+**CCAD - Centro de Computación de Alto Desempeño de la Universidad Nacional de Córdoba**
 ^^^
 
 :::::{grid} 1 1 2 2
@@ -206,7 +206,7 @@ CCAD is the HPC centre of the National University of Córdoba, Argentina. CCAD h
 ::::::{card} 
 :link: https://2i2c.org/
 
-2i2c (The International Interactive Computing Collaboration)
+**2i2c (The International Interactive Computing Collaboration)**
 ^^^
 
 :::::{grid} 1 1 2 2
