@@ -2,6 +2,8 @@
 
 ## Core Team
 
+The Catalyst Project Core Team includes personnel from seven open science organisations. Meet the team members below, grouped alphabetically by their organisational affiliation. The person listed first for each organisation is the primary point of contact for the Catalyst Project. 
+
 ### 2i2c
 
 :::::{grid} 1 1 2 2
@@ -164,56 +166,6 @@ Birmingham, UK
 
 Jenny is the Technical Content Developer for 2i2c. As part of the Catalyst Project, she develops community-based training materials for interactive cloud-native workflows. As a former research software engineer, Jenny has considerable experience supporting researchers with writing documentation, creating video tutorials, and designing and delivering training for advanced research computing. Jenny is also a qualified Software Carpentries Instructor. Jenny’s background is in mathematics, with a special interest in geophysical fluid dynamics. She obtained a PhD in the subject with her thesis titled “A slurry model of the F-layer in the Earth’s core”.
 
-## OLS
-
-:::::{grid} 1 1 2 2
-
-::::{grid-item}
-:columns: 12 12 4 4
-
-:::{image} images/people-profiles/ols-tgwadabe.png
-
-:::
-
-::::
-
-::::{grid-item}
-
-**Tajuddeen Gwadabe** (OLS) \
-tajuddeen@we-are-ols.org \
-UTC +1 / West Africa Time \
-Kano, Nigeria
-
-::::
-
-:::::
-
-Tajuddeen is the Program Manager for the Catalyst Project. He collaborates with all of the contributors to the project. Tajuddeen completed his PhD in Computer Science and Technology in 2022. During his PhD he worked part time as a research project manager for Masakhane Research Foundation where he led the execution of research projects in Natural Language Processing for African Languages.
-
-<br>
-
-:::::{grid} 1 1 2 2
-
-::::{grid-item}
-:columns: 12 12 4 4
-
-:::{image} images/people-profiles/ols-yyehudi.png
-
-:::
-
-::::
-
-::::{grid-item}
-
-**Yo Yehudi** (OLS) \
-yo@we-are-ols.org \
-UTC / Greenwich Mean Time \
-
-::::
-
-:::::
-
-Yo is the Executive Director and co-founder of OLS, a [Software Sustainability Institute Fellow](https://software.ac.uk/about/fellows/yo-yehudi), NASA TOPS grantee, Research Software Alliance Steering committee member, and [recently defended a doctoral thesis](https://www.research.manchester.ac.uk/portal/yochannah.yehudi-postgrad.html) studying human factors in research software and open communities. Previous roles include editor for the [PLOS Open Source Toolkit](https://collections.plos.org/channel/open-source-toolkit/), Codefirst:Girls coding instructor, Mozilla volunteer, editor emeritus for the [Journal of Open Source Software](https://joss.theoj.org/), board member of the [Open Bioinformatics Foundation](https://www.open-bio.org/board/), and software developer  working on an open source biological data warehouse called [InterMine](http://intermine.org), based at the University of Cambridge.
 
 ## The Carpentries
 
@@ -267,15 +219,14 @@ Johannesburg, ZA
 
 Dr. Angelique Trusler serves as the Community Manager at The Carpentries and holds the position of Extraordinary Researcher at Optentia Research Unit, North-West University, Vaal Triangle Campus, South Africa. In her capacity at The Carpentries, Angelique spearheads developing and implementing strategies to enhance researchers' capabilities in the data science field. Dr Trusler joined the [Carpentries Core Team](https://carpentries.org/blog/2019/11/introducing-angelique/) in 2019 as the Regional Consultant for Southern Africa, and in 2024, she was promoted to Community Manager. Angelique is excited to forge meaningful relationships with the global community and actively engage members of The Carpentries to sustain the organisation’s mission. 
 
-## MetaDocencia
-
+## CCAD
 
 :::::{grid} 1 1 2 2
 
 ::::{grid-item}
 :columns: 12 12 4 4
 
-:::{image} images/people-profiles/metadocencia-lacion.png
+:::{image} images/people-profiles/ccad-nwolovick.jpg
 
 :::
 
@@ -283,42 +234,25 @@ Dr. Angelique Trusler serves as the Community Manager at The Carpentries and hol
 
 ::::{grid-item}
 
-**Laura Ación** (MetaDocencia) \
-laura.acion@metadocencia.org \
+**Nicolás Wolovick** (CCAD) \
+nwolovick@unc.edu.ar \
 UTC -3 / Argentina Time \
-Buenos Aires, Argentina
+Córdoba, Argentina
 
 ::::
 
 :::::
 
-Laura is MetaDocencia´s Co-Executive Director. She is an Adjunct Research Scientist at the National Research Council in Argentina (CONICET) and the University of Buenos Aires, where she leads the Responsible Use of Data Co-Laboratory. She has been involved with research for 30+ years, with 50+ papers co-authored and funding from several international sources. Since 2017, Laura has held leadership positions at or co-created local, regional, and international open science-related collective projects (e.g., R-Ladies Global, LatinR, useR!, OLS, CS&S). She was also a The Carpentries-certified instructor and instructor trainer, and has experience developing massive online courses for a US-based platform. In March 2020, she co-founded MetaDocencia.
+Nico has a PhD in Computer Science from Facultad de Matemática, Astronomía, Física y Computación, Universidad Nacional de Córdoba (FaMAF-UNC). He is the director of the Córdoba National University HPC Center (CCAD-UNC). He is also full professor of CS curricula and director of the CS curricula in the Faculty. He also works in the civil society within the inorganic group CyberCirujas, which he co-founded. He researches in the areas of High Performance Computing (HPC), Computer Archeology (CA), Computer Science Education (CSEd) and Formal Methods (FM). He is a recovering technically precocious boy.
 
 <br>
 
-:::::{grid} 1 1 2 2
-
-::::{grid-item}
-:columns: 12 12 4 4
-
-:::{image} images/people-profiles/metadocencia-slopez.png
-
-:::
-
-::::
-
-::::{grid-item}
-
-**Sabrina López** (MetaDocencia) \
-sabrina.lopez@metadocencia.org \
+**Juan Ignacio Perotti** (CCAD) \
+juan.perotti@unc.edu.ar \
 UTC -3 / Argentina Time \
-Buenos Aires, Argentina
+Córdoba, Argentina
 
-::::
-
-:::::
-
-Sabrina has an academic background as a Bachelor and Professor in Biological Sciences, as well as a Ph.D. in Biological Sciences from the University of Buenos Aires. With experience in public management at the Ministry of Health of the City of Buenos Aires, Sabrina has developed a specific interest in the creation of public health policies based on quality and timely evidence. Currently, Sabrina is dedicated to research on the Responsible Use of Health Data, especially those from electronic health records.
+Juan has a PhD in Physics from FAMAF-UNC. He is a Research Associate at CONICET, where he studies complex networks and systems at IFEG. Additionally, Juan serves as an Assistant Professor at FAMAF-UNC. Previously, Juan did two postdocs studying Complex Networks, one at Aalto University, Espoo, Finland and another at the IMT School of Advanced Studies at Luca, Italy.
 
 ## CSCCE
 
@@ -396,7 +330,7 @@ Maya is a recent graduate from Yale University, with a BS in cognitive science. 
 
 ::::{grid-item}
 
-**Katherine Skinner** (CSCCE) \
+**Katherine Skinner** (IOI) \
 katherine@investinopen.org \
 UTC -5 / US Eastern Time \
 Greensboro, NC, US
@@ -407,14 +341,15 @@ Greensboro, NC, US
 
 Katherine Skinner, Research Lead for Invest in Open Infrastructure (IOI), is an open knowledge researcher-activist with deep commitments to community building, organizational resilience, and systems thinking. At IOI, she directs research projects and engages directly with open infrastructures to help advance their resilience and sustainability. Prior to this work, her passion for facilitating, empowering, and cultivating communities led her to co-found and direct the Educopia Institute for more than 15 years, where she provided scaffolding, training, and systems to support a wide range of collaborative groups and co-authored Community Cultivation: A Field Guide (2018) to provide an open, practical guide to this type of work. 
 
-## CCAD
+## MetaDocencia
+
 
 :::::{grid} 1 1 2 2
 
 ::::{grid-item}
 :columns: 12 12 4 4
 
-:::{image} images/people-profiles/ccad-nwolovick.jpg
+:::{image} images/people-profiles/metadocencia-lacion.png
 
 :::
 
@@ -422,25 +357,93 @@ Katherine Skinner, Research Lead for Invest in Open Infrastructure (IOI), is an 
 
 ::::{grid-item}
 
-**Nicolás Wolovick** (CCAD) \
-nwolovick@unc.edu.ar \
+**Laura Ación** (MetaDocencia) \
+laura.acion@metadocencia.org \
 UTC -3 / Argentina Time \
-Córdoba, Argentina
+Buenos Aires, Argentina
 
 ::::
 
 :::::
 
-Nico has a PhD in Computer Science from Facultad de Matemática, Astronomía, Física y Computación, Universidad Nacional de Córdoba (FaMAF-UNC). He is the director of the Córdoba National University HPC Center (CCAD-UNC). He is also full professor of CS curricula and director of the CS curricula in the Faculty. He also works in the civil society within the inorganic group CyberCirujas, which he co-founded. He researches in the areas of High Performance Computing (HPC), Computer Archeology (CA), Computer Science Education (CSEd) and Formal Methods (FM). He is a recovering technically precocious boy.
+Laura is MetaDocencia´s Co-Executive Director. She is an Adjunct Research Scientist at the National Research Council in Argentina (CONICET) and the University of Buenos Aires, where she leads the Responsible Use of Data Co-Laboratory. She has been involved with research for 30+ years, with 50+ papers co-authored and funding from several international sources. Since 2017, Laura has held leadership positions at or co-created local, regional, and international open science-related collective projects (e.g., R-Ladies Global, LatinR, useR!, OLS, CS&S). She was also a The Carpentries-certified instructor and instructor trainer, and has experience developing massive online courses for a US-based platform. In March 2020, she co-founded MetaDocencia.
 
 <br>
 
-**Juan Ignacio Perotti** (CCAD) \
-juan.perotti@unc.edu.ar \
-UTC -3 / Argentina Time \
-Córdoba, Argentina
+:::::{grid} 1 1 2 2
 
-Juan has a PhD in Physics from FAMAF-UNC. He is a Research Associate at CONICET, where he studies complex networks and systems at IFEG. Additionally, Juan serves as an Assistant Professor at FAMAF-UNC. Previously, Juan did two postdocs studying Complex Networks, one at Aalto University, Espoo, Finland and another at the IMT School of Advanced Studies at Luca, Italy.
+::::{grid-item}
+:columns: 12 12 4 4
+
+:::{image} images/people-profiles/metadocencia-slopez.png
+
+:::
+
+::::
+
+::::{grid-item}
+
+**Sabrina López** (MetaDocencia) \
+sabrina.lopez@metadocencia.org \
+UTC -3 / Argentina Time \
+Buenos Aires, Argentina
+
+::::
+
+:::::
+
+Sabrina has an academic background as a Bachelor and Professor in Biological Sciences, as well as a Ph.D. in Biological Sciences from the University of Buenos Aires. With experience in public management at the Ministry of Health of the City of Buenos Aires, Sabrina has developed a specific interest in the creation of public health policies based on quality and timely evidence. Currently, Sabrina is dedicated to research on the Responsible Use of Health Data, especially those from electronic health records.
+
+## OLS
+
+:::::{grid} 1 1 2 2
+
+::::{grid-item}
+:columns: 12 12 4 4
+
+:::{image} images/people-profiles/ols-yyehudi.png
+
+:::
+
+::::
+
+::::{grid-item}
+
+**Yo Yehudi** (OLS) \
+yo@we-are-ols.org \
+UTC / Greenwich Mean Time
+
+::::
+
+:::::
+
+Yo is the Executive Director and co-founder of OLS, a [Software Sustainability Institute Fellow](https://software.ac.uk/about/fellows/yo-yehudi), NASA TOPS grantee, Research Software Alliance Steering committee member, and [recently defended a doctoral thesis](https://www.research.manchester.ac.uk/portal/yochannah.yehudi-postgrad.html) studying human factors in research software and open communities. Previous roles include editor for the [PLOS Open Source Toolkit](https://collections.plos.org/channel/open-source-toolkit/), Codefirst:Girls coding instructor, Mozilla volunteer, editor emeritus for the [Journal of Open Source Software](https://joss.theoj.org/), board member of the [Open Bioinformatics Foundation](https://www.open-bio.org/board/), and software developer  working on an open source biological data warehouse called [InterMine](http://intermine.org), based at the University of Cambridge.
+
+<br>
+
+:::::{grid} 1 1 2 2
+
+::::{grid-item}
+:columns: 12 12 4 4
+
+:::{image} images/people-profiles/ols-tgwadabe.png
+
+:::
+
+::::
+
+::::{grid-item}
+
+**Tajuddeen Gwadabe** (OLS) \
+tajuddeen@we-are-ols.org \
+UTC +1 / West Africa Time \
+Kano, Nigeria
+
+::::
+
+:::::
+
+Tajuddeen is the Program Manager for the Catalyst Project. He collaborates with all of the contributors to the project. Tajuddeen completed his PhD in Computer Science and Technology in 2022. During his PhD he worked part time as a research project manager for Masakhane Research Foundation where he led the execution of research projects in Natural Language Processing for African Languages.
 
 ## Extended Team Members
 

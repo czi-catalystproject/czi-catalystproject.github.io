@@ -1,6 +1,39 @@
 # Team
 
-The Catalyst Project Core Team includes personnel from seven open science organisations. To find out more about the individual team members check out the People page.
+The Catalyst Project Core Team includes personnel from seven open science organisations, listed alphabetically below. To find out more about the individual team members check out the [People page](people.md).
+
+::::::{card} 
+:link: https://2i2c.org/
+
+**2i2c (The International Interactive Computing Collaboration)**
+^^^
+
+:::::{grid} 1 1 2 2
+:gutter: 3
+
+::::{grid-item}
+:columns: 12 12 4 4
+:child-align: center
+
+:::{image} images/core-team-logos/2i2c-logo.png
+:alt: 2i2c logo
+:width: 50%
+:align: center
+:::
+
+::::
+
+::::{grid-item}
+:columns: 12 12 8 8
+
+2i2c’s mission is to make research and education more impactful, accessible, and delightful by developing, operating, and supporting infrastructure for interactive computing.
+
+**Catalyst Project role:** 2i2c designs, deploys, and maintains JupyterHubs on multiple cloud platforms and is responsible for providing the infrastructure for the communities on the Catalyst Project. 2i2c is also developing technical and user documentation for use in community training.
+::::
+
+:::::
+
+::::::
 
 ::::::{card}
 :link: https://carpentries.org/about/
@@ -30,6 +63,39 @@ The Carpentries build global capacity in essential data and computational skills
 
 **Catalyst Project role:** The Carpentries is connecting communities with the project, focusing on the African continent. The organisation is also supporting the development and delivery of training at several stages of the project.
 
+::::
+
+:::::
+
+::::::
+
+::::::{card} 
+:link: https://ccad.unc.edu.ar/
+
+**CCAD - Centro de Computación de Alto Desempeño de la Universidad Nacional de Córdoba**
+^^^
+
+:::::{grid} 1 1 2 2
+:gutter: 3
+
+::::{grid-item}
+:columns: 12 12 4 4
+:child-align: center
+
+:::{image} images/core-team-logos/ccad-logo.png
+:alt: CCAD logo
+:width: 100%
+:align: center
+:::
+
+::::
+
+::::{grid-item}
+:columns: 12 12 8 8
+
+CCAD is the HPC centre of the National University of Córdoba, Argentina. CCAD has a tradition of bottom-up development in HPC. We solve the computational needs of the science and technology community at the university. We believe in computing as a way to push science in the Global South – we do a lot with a little.
+
+**Catalyst Project role:** CCAD is in charge of the secondment of an open infrastructure engineer at 2i2c, to learn how to deploy community hubs. This is also an opportunity for 2i2c to learn if their approach is replicable in on-premises computing infrastructure.
 ::::
 
 :::::
@@ -164,72 +230,6 @@ MetaDocencia’s mission is to advance innovation with a local perspective that 
 OLS is an open science capacity building organisation with a mission to upskill, connect and support a distributed network of ambassadors enabling the adoption of open science principles in their local communities.
 
 **Catalyst Project role:** OLS hosts the programme manager for the Catalyst Project, and provides open science training and mentoring for participating community partners. 
-::::
-
-:::::
-
-::::::
-
-::::::{card} 
-:link: https://ccad.unc.edu.ar/
-
-**CCAD - Centro de Computación de Alto Desempeño de la Universidad Nacional de Córdoba**
-^^^
-
-:::::{grid} 1 1 2 2
-:gutter: 3
-
-::::{grid-item}
-:columns: 12 12 4 4
-:child-align: center
-
-:::{image} images/core-team-logos/ccad-logo.png
-:alt: CCAD logo
-:width: 100%
-:align: center
-:::
-
-::::
-
-::::{grid-item}
-:columns: 12 12 8 8
-
-CCAD is the HPC centre of the National University of Córdoba, Argentina. CCAD has a tradition of bottom-up development in HPC. We solve the computational needs of the science and technology community at the university. We believe in computing as a way to push science in the Global South – we do a lot with a little.
-
-**Catalyst Project role:** CCAD is in charge of the secondment of an open infrastructure engineer at 2i2c, to learn how to deploy community hubs. This is also an opportunity for 2i2c to learn if their approach is replicable in on-premises computing infrastructure.
-::::
-
-:::::
-
-::::::
-
-::::::{card} 
-:link: https://2i2c.org/
-
-**2i2c (The International Interactive Computing Collaboration)**
-^^^
-
-:::::{grid} 1 1 2 2
-:gutter: 3
-
-::::{grid-item}
-:columns: 12 12 4 4
-:child-align: center
-
-:::{image} images/core-team-logos/2i2c-logo.png
-:alt: 2i2c logo
-:width: 50%
-:align: center
-:::
-
-::::
-
-::::{grid-item}
-:columns: 12 12 8 8
-
-2i2c’s mission is to make research and education more impactful, accessible, and delightful by developing, operating, and supporting infrastructure for interactive computing.
-
-**Catalyst Project role:** 2i2c designs, deploys, and maintains JupyterHubs on multiple cloud platforms and is responsible for providing the infrastructure for the communities on the Catalyst Project. 2i2c is also developing technical and user documentation for use in community training.
 ::::
 
 :::::
