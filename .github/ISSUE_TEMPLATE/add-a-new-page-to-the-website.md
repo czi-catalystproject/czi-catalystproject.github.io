@@ -3,7 +3,7 @@ name: Add a new page to the website
 about: Use this issue template to add a new static page to the Catalyst Project website
 title: ''
 labels: enhancement
-assignees: LouWoodley, jnywong, katiepratt, Tajuddeen1
+assignees: jnywong, katiepratt, LouWoodley, Tajuddeen1
 
 ---
 
@@ -20,7 +20,7 @@ Google doc for drafting copy: <paste a link to the Google Doc here>
 **Roles**
 
 - [ ] Drafting content: <@your_github_username>
-- [ ] Sub-team review: <@corresponding project sub-team reviewer>
+- [ ] Sub-team review: <@corresponding project sub-team reviewer> (see The Catalyst Project Blog - Project Planning Doc in *Team Drive > Communication*) 
 - [ ] Handoff: @katiepratt to provide editorial review
 - [ ] Draft website preview: @jnywong to prepare a preview for website publishing
 - [ ] Final sign-off: @katiepratt
