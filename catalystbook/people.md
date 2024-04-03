@@ -46,7 +46,7 @@ Chris is the Executive Director of 2i2c and PI of the Catalyst Project. He was p
 **James Munroe** (2i2c) \
 jmunroe@2i2c.org \
 UTC -5 / US Eastern Time  \
-Canada
+Newfoundland, Canada
 
 
 ::::
@@ -213,7 +213,7 @@ UTC / Greenwich Mean Time \
 
 :::::
 
-Yo is the Executive Director and co-founder of OLS, a Software Sustainability Institute Fellow, NASA TOPS grantee, Research Software Alliance Steering committee member, and recently defended a doctoral thesis studying human factors in research software and open communities. Previous roles include editor for the PLOS Open Source Toolkit, Codefirst:Girls coding instructor, Mozilla volunteer, editor emeritus for the Journal of Open Source Software, board member of the Open Bioinformatics Foundation, and software developer  working on an open source biological data warehouse called InterMine, based at the University of Cambridge.
+Yo is the Executive Director and co-founder of OLS, a [Software Sustainability Institute Fellow](https://software.ac.uk/about/fellows/yo-yehudi), NASA TOPS grantee, Research Software Alliance Steering committee member, and [recently defended a doctoral thesis](https://www.research.manchester.ac.uk/portal/yochannah.yehudi-postgrad.html) studying human factors in research software and open communities. Previous roles include editor for the [PLOS Open Source Toolkit](https://collections.plos.org/channel/open-source-toolkit/), Codefirst:Girls coding instructor, Mozilla volunteer, editor emeritus for the [Journal of Open Source Software](https://joss.theoj.org/), board member of the [Open Bioinformatics Foundation](https://www.open-bio.org/board/), and software developer  working on an open source biological data warehouse called [InterMine](http://intermine.org), based at the University of Cambridge.
 
 ## The Carpentries
 
@@ -239,7 +239,7 @@ Heidelberg, DE
 
 :::::
 
-Toby is the Director of Curriculum at The Carpentries. He leads the Curriculum Team, which works to facilitate the community's many activities around development and maintenance of open source lessons and curricula. Right now, he’s excited about the new lesson infrastructure, The Carpentries Workbench, and the Collaborative Lesson Development Training program launched in 2023. Toby’s background is in biochemistry and bioinformatics, and before he joined The Carpentries Core Team he was a Community Manager for a community of bioinformaticians and computational biologists at EMBL.
+Toby is the Director of Curriculum at The Carpentries. He leads the Curriculum Team, which works to facilitate the community's many activities around development and maintenance of open source lessons and curricula. Right now, he’s excited about the new lesson infrastructure, [The Carpentries Workbench](https://carpentries.github.io/workbench/), and the [Collaborative Lesson Development Training](https://carpentries.org/lesson-development-training/) program launched in 2023. Toby’s background is in biochemistry and bioinformatics, and before he joined The Carpentries Core Team he was a Community Manager for a community of bioinformaticians and computational biologists at [EMBL](https://www.embl.org/).
 
 <br>
 
@@ -265,7 +265,7 @@ Johannesburg, ZA
 
 :::::
 
-Dr. Angelique Trusler serves as the Community Manager at The Carpentries and holds the position of Extraordinary Researcher at Optentia Research Unit, North-West University, Vaal Triangle Campus, South Africa. In her capacity at The Carpentries, Angelique spearheads developing and implementing strategies to enhance researchers' capabilities in the data science field. Dr Trusler joined the Carpentries Core Team in 2019 as the Regional Consultant for Southern Africa, and in 2024, she was promoted to Community Manager. Angelique is excited to forge meaningful relationships with the global community and actively engage members of The Carpentries to sustain the organisation’s mission. 
+Dr. Angelique Trusler serves as the Community Manager at The Carpentries and holds the position of Extraordinary Researcher at Optentia Research Unit, North-West University, Vaal Triangle Campus, South Africa. In her capacity at The Carpentries, Angelique spearheads developing and implementing strategies to enhance researchers' capabilities in the data science field. Dr Trusler joined the [Carpentries Core Team](https://carpentries.org/blog/2019/11/introducing-angelique/) in 2019 as the Regional Consultant for Southern Africa, and in 2024, she was promoted to Community Manager. Angelique is excited to forge meaningful relationships with the global community and actively engage members of The Carpentries to sustain the organisation’s mission. 
 
 ## MetaDocencia
 
