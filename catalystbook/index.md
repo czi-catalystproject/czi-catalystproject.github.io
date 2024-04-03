@@ -1,130 +1,106 @@
-:::::{grid} 2
-:reverse:
+# The Catalyst Project
 
-::::{grid-item}
-:columns: 4
-:class: sd-m-auto
+The Catalyst Project is a community-engaged initiative designed to support the adoption of open science principles in under-served biomedical research communities through the provision of reliable and sustainable cloud computing infrastructure. 
 
-:::{image} images/logo/catalyst-icon-dark.png
-:alt: Catalyst Project logo
-:::
+The project, which is funded by the [Chan Zuckerberg Initiative (CZI)](https://chanzuckerberg.com/), is a collaboration between  seven organisations, who bring the  breadth of open science skills and backgrounds needed. These include expertise in: technology deployment, community building and governance, training development and delivery, as well as organisations with  existing connections in our partner locations. 
 
-::::
+Our work is continuously influenced by contextual feedback from the biomedical researchers, engineers, and computer scientists that we serve in Africa and Latin America. 
 
-::::{grid-item}
-:columns: 8
-:class: sd-fs-3
-
-Delivering open science cloud infrastructure and training for communities in Latin America and Africa
-
-::::
-
-:::::
-
-::::{grid} 1 1 2 2
-:class-container: text-center 
-:gutter: 3
-
-:::{grid-item-card}
-:class-header: bg-light
-
-Our goal ☁️
-^^^
-
-Create a collaborative cloud infrastructure service that enables cloud-native workflows.
-:::
-
-:::{grid-item-card}
-:class-header: bg-light
-
-Open Science 🧪️
-^^^
-
-We promote values of open science and inclusive community practices to share expertise.
-
-:::
-
-:::{grid-item-card}
-:class-header: bg-light
-
-Train-the-Trainers 👩‍🏫
-^^^
-
-We implement a train-the-trainers approach to empower communities to fully leverage their infrastructure.
-
-:::
-
-:::{grid-item-card}
-:class-header: bg-light
-
-Our focus 🎯
-^^^
-
-Communities in Latin America and Africa from the Biomedical, Health and Public Health Sciences that are historically marginalized from large-scale scientific infrastructure projects.
-:::
-
-::::
-
-## The Catalyst Project
-
-We are seeking organisations in Africa and Latin America to partner with. By joining The Catalyst Project, you and your user community will have access to
-
-✅ A free interactive cloud computing hub for 1 year  
-✅ Support and technical training on making the best use of the cloud computing resource  
-✅ A "Train-the-Trainers" program to learn the teaching and pedagogical skills to transfer expertise to your user community  
-✅ Open science training and mentoring to develop good leadership practices for transparent and accessible research  
-✅ Translation and contextualization of resources to Spanish for Latin American commmunities  
-✅ Shaping our governance model to help us sustain, scale and maximise impact
-
-## Interested? Get in touch with us!
-
-If you are interested in partnering with us, then we would love to hear from you.
-
-:::::{grid} 2
-::::{grid-item-card} 📝 Register
-Get on board and register your community with the Catalyst Project.
-
-:::{button-link} contact.html#community-partner-application-form
-:ref-type: doc
+:::{button-ref} about
+:align: center
 :color: primary
-:class: sd-rounded-pill float-left
 
-Register
-
+Learn more about the project
 :::
 
+## Get Involved
+
+If you’re working at a research institution or nonprofit in Africa or Latin America, and you need high-throughput computing infrastructure to undertake biomedical research or data science training efforts, we’d love to hear from you!
+
+:::{button-ref} community-partnership
+:align: center
+:color: primary
+
+Find out more about Catalyst Project Community Partnership
+:::
+
+## Catalyst Project Core Team
+
+The Catalyst Project is staffed by members of the following organisations:
+
+<br>
+
+:::::{grid} 1 1 4 4
+:gutter: 1
+
+::::{grid-item}
+:::{image} ./images/core-team-logos/thecarpentries-logo.png
+:alt: The Carpentries logo
+:target: https://carpentries.org/
+:::
 ::::
 
-::::{grid-item-card} ✉️ Email
-For general enquiries, send us an email at 
-[catalyst-project-core-team@googlegroups.com](mailto:catalyst-project-core-team@googlegroups.com).
+::::{grid-item}
+:::{image} ./images/core-team-logos/cscce-logo.png
+:alt: CSCCE logo
+:target: https://www.cscce.org/
+:::
+::::
 
+::::{grid-item}
+:::{image} ./images/core-team-logos/ioi-logo.png
+:alt: The Invest in Open Infrastructure logo
+:target: https://investinopen.org/
+:::
+::::
+
+::::{grid-item}
+:::{image} ./images/core-team-logos/md-logo.png
+:alt: MetaDocencia logo
+:target: https://www.metadocencia.org/
+:::
+::::
+:::::
+
+:::::{grid} 1 1 3 3
+:gutter: 1
+
+::::{grid-item}
+:::{image} ./images/core-team-logos/ols-logo.png
+:alt: OLS logo
+:align: center
+:width: 35%
+:target: https://openlifesci.org/
+:::
+::::
+
+::::{grid-item} 
+:::{image} ./images/core-team-logos/ccad-logo.png
+:alt: CCAD logo
+:align: center
+:width: 80%
+:target: https://ccad.unc.edu.ar/
+:::
+::::
+
+::::{grid-item}
+:::{image} ./images/core-team-logos/2i2c-logo.png
+:alt: 2i2c logo
+:align: center
+:width: 35%
+:target: https://2i2c.org/
+:::
 ::::
 
 :::::
 
-## Acknowledgements
+:::{button-ref} team
+:align: center
+:color: primary
 
-:::::{grid} 2
-:reverse:
-
-::::{grid-item}
-:columns: 4
-
-:::{image} images/Chan_Zuckerberg_Initiative.svg
-:alt: Chan Zuckerberg Initiative logo
-:class: m-auto
-:width: 200px
-
+Meet the members of the Core Team
 :::
 
-::::
+## Contact the Catalyst Project
 
-::::{grid-item}
-:columns: 8
-
-We wish to thank the Chan-Zuckerberg Initiative for funding this project.
-
-::::
-
-:::::
+If you have questions about our work, or would like to partner with us, please visit our [Contact page](contact.md) for more information. 

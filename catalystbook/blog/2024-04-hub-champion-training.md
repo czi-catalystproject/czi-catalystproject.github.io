@@ -1,22 +1,12 @@
 # April 2024 – Hub Champion Training Workshop (English Version)
 
-The Catalyst Project are delighted to announce that the first Hub Champion Training workshop (English Version) will be held online on:
-
-:::::{grid} 2
-:reverse:
+:::::{grid} 1 1 2 2
+:gutter: 3
 
 ::::{grid-item}
-:columns: 4
-:class: sd-m-auto
+:columns: 12 12 8 8
 
-:::{image} https://raw.githubusercontent.com/czi-catalystproject/hub-champion-training/301423f28ec9a049b3c2c9e6df51ed44f27691de/media/logos/hub-champion-training/logo.svg
-:alt: Hub Champion Training logo
-:::
-
-::::
-
-::::{grid-item}
-:columns: 8
+The Catalyst Project are delighted to announce that the first Hub Champion Training workshop (English Version) will be held online on
 
 **Date – Part One:** 22 April 2024 \
 **Time – Part One:** 13:00-14:00 UTC
@@ -27,6 +17,16 @@ The Catalyst Project are delighted to announce that the first Hub Champion Train
 <br>
 <br>
 Check the time in your time zone: [https://dateful.com/eventlink/1443134388](https://dateful.com/eventlink/1443134388)
+
+::::
+
+::::{grid-item}
+:columns: 12 12 4 4
+:class: sd-m-auto
+
+:::{image} https://raw.githubusercontent.com/czi-catalystproject/hub-champion-training/301423f28ec9a049b3c2c9e6df51ed44f27691de/media/logos/hub-champion-training/logo.svg
+:alt: Hub Champion Training logo
+:::
 
 ::::
 

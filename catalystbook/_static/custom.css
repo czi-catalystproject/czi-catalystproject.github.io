@@ -1,8 +1,9 @@
 body {
-    --sd-color-primary: #59981a;
-    --sd-color-primary-highlight: #e89217;
-    --pst-color-link: #59981a;
-    
+    --sd-color-primary: #4f8419;
+    --pst-color-secondary: #922D50;
+    --sd-color-primary-highlight: var(--pst-color-secondary);
+    --pst-color-link: var(--sd-color-primary);
+    --pst-color-link-hover: var(--pst-color-secondary);
     --pst-font-family-heading: Roboto, var(--pst-font-family-base-system);    
 }
 
@@ -14,4 +15,16 @@ nav.bd-links .current > a {
 .toc-entry a.nav-link.active {
     color: var(--sd-color-primary);
     box-shadow: inset max(3px,.1875rem,.12em) 0 0 var(--sd-color-primary);
+}
+
+.sd-card-hover:hover {
+  border-color: var(--sd-color-primary);
+}
+
+.sd-card-img-top {
+  border: 1px solid #ddd;
+  padding: 1rem;    
+  width: 100%;
+  height: 25vh;
+  object-fit: scale-down;
 }
