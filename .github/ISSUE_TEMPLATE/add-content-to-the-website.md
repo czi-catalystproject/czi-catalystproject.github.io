@@ -11,6 +11,8 @@ This issue tracks the drafting, review and approval for adding new content to th
 
 This issue is complete when: the copy of this page is approved and published on the website.
 
+**Please edit and insert information enclosed by the <angled brackets> below**
+
 Google doc for drafting copy: <insert link from *Catalyst Project Team Drive > External Documentation > Blog Post > filename* here>
 
 **Roles**
