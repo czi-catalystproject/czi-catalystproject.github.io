@@ -11,6 +11,7 @@ The Catalyst Project is currently working with research institutions and non-pro
 Community Partners also play a vital role in shaping our governance model to help us sustain, scale and maximise impact in Latin America, Africa, and under-served communities around the world. 
 
 :::{button-link} contact.html#community-partner-application-form
+:align: center
 :color: primary
 
 Apply to become a Community Partner
@@ -40,7 +41,8 @@ Community Partners will have access to three types of training opportunities dur
 
 Members of participating communities will have the opportunity to take part in a [16-week cohort training](https://openlifesci.org/openseeds/) to expand their personal open science practice and bring those learnings back to their community.
 
-:::{button-link} training.html
+:::{button-ref} training
+:align: center
 :color: primary
 
 More information about training
@@ -67,6 +69,7 @@ The first step in becoming a Community Partner is to complete this {ref}`short a
 We are currently accepting applications from organisations located in Africa and Latin America. For expressions of interest from elsewhere in the world, please send us an email: [catalyst-project-core-team@googlegroups.com](mailto:catalyst-project-core-team@googlegroups.com). 
 
 :::{button-ref} current-community-partners
+:align: center
 :color: primary
 
 View current community partners

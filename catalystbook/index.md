@@ -7,6 +7,7 @@ The project, which is funded by the [Chan Zuckerberg Initiative (CZI)](https://c
 Our work is continuously influenced by contextual feedback from the biomedical researchers, engineers, and computer scientists that we serve in Africa and Latin America. 
 
 :::{button-ref} about
+:align: center
 :color: primary
 
 Learn more about the project
@@ -17,6 +18,7 @@ Learn more about the project
 If you’re working at a research institution or nonprofit in Africa or Latin America, and you need high-throughput computing infrastructure to undertake biomedical research or data science training efforts, we’d love to hear from you!
 
 :::{button-ref} community-partnership
+:align: center
 :color: primary
 
 Find out more about Catalyst Project Community Partnership
@@ -93,6 +95,7 @@ The Catalyst Project is staffed by members of the following organisations:
 :::::
 
 :::{button-ref} team
+:align: center
 :color: primary
 
 Meet the members of the Core Team
