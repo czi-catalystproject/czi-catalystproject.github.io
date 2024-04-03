@@ -163,3 +163,311 @@ Birmingham, UK
 :::::
 
 Jenny is the Technical Content Developer for 2i2c. As part of the Catalyst Project, she develops community-based training materials for interactive cloud-native workflows. As a former research software engineer, Jenny has considerable experience supporting researchers with writing documentation, creating video tutorials, and designing and delivering training for advanced research computing. Jenny is also a qualified Software Carpentries Instructor. Jenny’s background is in mathematics, with a special interest in geophysical fluid dynamics. She obtained a PhD in the subject with her thesis titled “A slurry model of the F-layer in the Earth’s core”.
+
+## OLS
+
+:::::{grid} 1 1 2 2
+
+::::{grid-item}
+:columns: 12 12 4 4
+
+:::{image} images/people-profiles/ols-tgwadabe.png
+
+:::
+
+::::
+
+::::{grid-item}
+
+**Tajuddeen Gwadabe** (OLS) \
+tajuddeen@we-are-ols.org \
+UTC +1 / West Africa Time \
+Kano, Nigeria
+
+::::
+
+:::::
+
+Tajuddeen is the Program Manager for the Catalyst Project. He collaborates with all of the contributors to the project. Tajuddeen completed his PhD in Computer Science and Technology in 2022. During his PhD he worked part time as a research project manager for Masakhane Research Foundation where he led the execution of research projects in Natural Language Processing for African Languages.
+
+<br>
+
+:::::{grid} 1 1 2 2
+
+::::{grid-item}
+:columns: 12 12 4 4
+
+:::{image} images/people-profiles/ols-yyehudi.png
+
+:::
+
+::::
+
+::::{grid-item}
+
+**Yo Yehudi** (OLS) \
+yo@we-are-ols.org \
+UTC / Greenwich Mean Time \
+
+::::
+
+:::::
+
+Yo is the Executive Director and co-founder of OLS, a Software Sustainability Institute Fellow, NASA TOPS grantee, Research Software Alliance Steering committee member, and recently defended a doctoral thesis studying human factors in research software and open communities. Previous roles include editor for the PLOS Open Source Toolkit, Codefirst:Girls coding instructor, Mozilla volunteer, editor emeritus for the Journal of Open Source Software, board member of the Open Bioinformatics Foundation, and software developer  working on an open source biological data warehouse called InterMine, based at the University of Cambridge.
+
+## The Carpentries
+
+:::::{grid} 1 1 2 2
+
+::::{grid-item}
+:columns: 12 12 4 4
+
+:::{image} images/people-profiles/carpentries-thodges.png
+
+:::
+
+::::
+
+::::{grid-item}
+
+**Toby Hodges** (The Carpentries) \
+tobyhodges@carpentries.org \
+UTC +1 / Central European Time \
+Heidelberg, DE
+
+::::
+
+:::::
+
+Toby is the Director of Curriculum at The Carpentries. He leads the Curriculum Team, which works to facilitate the community's many activities around development and maintenance of open source lessons and curricula. Right now, he’s excited about the new lesson infrastructure, The Carpentries Workbench, and the Collaborative Lesson Development Training program launched in 2023. Toby’s background is in biochemistry and bioinformatics, and before he joined The Carpentries Core Team he was a Community Manager for a community of bioinformaticians and computational biologists at EMBL.
+
+<br>
+
+:::::{grid} 1 1 2 2
+
+::::{grid-item}
+:columns: 12 12 4 4
+
+:::{image} images/people-profiles/carpentries-atrusler.jpg
+
+:::
+
+::::
+
+::::{grid-item}
+
+**Angelique Trusler** (The Carpentries) \
+angelique@carpentries.org \
+UTC +2 / South African Time \
+Johannesburg, ZA
+
+::::
+
+:::::
+
+Dr. Angelique Trusler serves as the Community Manager at The Carpentries and holds the position of Extraordinary Researcher at Optentia Research Unit, North-West University, Vaal Triangle Campus, South Africa. In her capacity at The Carpentries, Angelique spearheads developing and implementing strategies to enhance researchers' capabilities in the data science field. Dr Trusler joined the Carpentries Core Team in 2019 as the Regional Consultant for Southern Africa, and in 2024, she was promoted to Community Manager. Angelique is excited to forge meaningful relationships with the global community and actively engage members of The Carpentries to sustain the organisation’s mission. 
+
+## MetaDocencia
+
+
+:::::{grid} 1 1 2 2
+
+::::{grid-item}
+:columns: 12 12 4 4
+
+:::{image} images/people-profiles/metadocencia-lacion.png
+
+:::
+
+::::
+
+::::{grid-item}
+
+**Laura Ación** (MetaDocencia) \
+laura.acion@metadocencia.org \
+UTC -3 / Argentina Time \
+Buenos Aires, Argentina
+
+::::
+
+:::::
+
+Laura is MetaDocencia´s Co-Executive Director. She is an Adjunct Research Scientist at the National Research Council in Argentina (CONICET) and the University of Buenos Aires, where she leads the Responsible Use of Data Co-Laboratory. She has been involved with research for 30+ years, with 50+ papers co-authored and funding from several international sources. Since 2017, Laura has held leadership positions at or co-created local, regional, and international open science-related collective projects (e.g., R-Ladies Global, LatinR, useR!, OLS, CS&S). She was also a The Carpentries-certified instructor and instructor trainer, and has experience developing massive online courses for a US-based platform. In March 2020, she co-founded MetaDocencia.
+
+<br>
+
+:::::{grid} 1 1 2 2
+
+::::{grid-item}
+:columns: 12 12 4 4
+
+:::{image} images/people-profiles/metadocencia-slopez.png
+
+:::
+
+::::
+
+::::{grid-item}
+
+**Sabrina López** (MetaDocencia) \
+sabrina.lopez@metadocencia.org \
+UTC -3 / Argentina Time \
+Buenos Aires, Argentina
+
+::::
+
+:::::
+
+Sabrina has an academic background as a Bachelor and Professor in Biological Sciences, as well as a Ph.D. in Biological Sciences from the University of Buenos Aires. With experience in public management at the Ministry of Health of the City of Buenos Aires, Sabrina has developed a specific interest in the creation of public health policies based on quality and timely evidence. Currently, Sabrina is dedicated to research on the Responsible Use of Health Data, especially those from electronic health records.
+
+## CSCCE
+
+:::::{grid} 1 1 2 2
+
+::::{grid-item}
+:columns: 12 12 4 4
+
+:::{image} images/people-profiles/cscce-lwoodley.png
+
+:::
+
+::::
+
+::::{grid-item}
+
+**Lou Woodley** (CSCCE) \
+louwoodley@cscce.org \
+UTC -5 / US Eastern Time \
+Portland, ME, US
+
+::::
+
+:::::
+
+Lou is the Founder and Director of CSCCE, and works to support STEM community building in a range of ways including designing and delivering trainings for community managers, providing consulting to organisations building communities, and carrying out research to better define STEM communities and community manager roles. She’s a biochemist by training, and previously worked to build communities at Nature Publishing Group, the Open Knowledge Foundation and AAAS before founding CSCCE almost 5 years ago.
+
+<br>
+
+:::::{grid} 1 1 2 2
+
+::::{grid-item}
+:columns: 12 12 4 4
+
+:::{image} images/people-profiles/cscce-csantistevan.png
+
+:::
+
+::::
+
+::::{grid-item}
+
+**Camille Santistevan** (CSCCE) \
+camille.santistevan@cscce.org \
+UTC -5 / US Eastern Time \
+New York, NY, US
+
+::::
+
+:::::
+
+Camille applies her background in higher education, workforce development, social work, and political science to support and train scientific community managers. Before joining the CSCCE she helped start up The City University of New York’s Advanced Science Research Center, where she created community and public engagement programs, organized events and professional development training, and oversaw various communications and marketing projects. Camille has additionally designed, delivered, and evaluated evidence-based career development programs sponsored by the US National Science Foundation and the New York City Department of Health and Mental Hygiene. In 2019, she participated in the CSCCE Community Engagement Fellowship Program (CEFP 2019).
+
+<br>
+
+**Maya Sanghvi** (CSCCE) \
+maya.sanghvi@cscce.org \
+UTC -5 / US Eastern Time \
+Various locations  
+
+Maya is a recent graduate from Yale University, with a BS in cognitive science. Maya spent much of her undergraduate career devoted to decision-making research, and contributed to campus life through her work as a Communication and Consent Educator. At CSCCE, she joins the training team and will be supporting the delivery of online courses and client work.
+
+## IOI
+
+:::::{grid} 1 1 2 2
+
+::::{grid-item}
+:columns: 12 12 4 4
+
+:::{image} images/people-profiles/ioi-kskinner.png
+
+:::
+
+::::
+
+::::{grid-item}
+
+**Katherine Skinner** (CSCCE) \
+katherine@investinopen.org \
+UTC -5 / US Eastern Time \
+Greensboro, NC, US
+
+::::
+
+:::::
+
+Katherine Skinner, Research Lead for Invest in Open Infrastructure (IOI), is an open knowledge researcher-activist with deep commitments to community building, organizational resilience, and systems thinking. At IOI, she directs research projects and engages directly with open infrastructures to help advance their resilience and sustainability. Prior to this work, her passion for facilitating, empowering, and cultivating communities led her to co-found and direct the Educopia Institute for more than 15 years, where she provided scaffolding, training, and systems to support a wide range of collaborative groups and co-authored Community Cultivation: A Field Guide (2018) to provide an open, practical guide to this type of work. 
+
+## CCAD
+
+:::::{grid} 1 1 2 2
+
+::::{grid-item}
+:columns: 12 12 4 4
+
+:::{image} images/people-profiles/ccad-nwolovick.jpg
+
+:::
+
+::::
+
+::::{grid-item}
+
+**Nicolás Wolovick** (CCAD) \
+nwolovick@unc.edu.ar \
+UTC -3 / Argentina Time \
+Córdoba, Argentina
+
+::::
+
+:::::
+
+Nico has a PhD in Computer Science from Facultad de Matemática, Astronomía, Física y Computación, Universidad Nacional de Córdoba (FaMAF-UNC). He is the director of the Córdoba National University HPC Center (CCAD-UNC). He is also full professor of CS curricula and director of the CS curricula in the Faculty. He also works in the civil society within the inorganic group CyberCirujas, which he co-founded. He researches in the areas of High Performance Computing (HPC), Computer Archeology (CA), Computer Science Education (CSEd) and Formal Methods (FM). He is a recovering technically precocious boy.
+
+<br>
+
+**Juan Ignacio Perotti** (CCAD) \
+juan.perotti@unc.edu.ar \
+UTC -3 / Argentina Time \
+Córdoba, Argentina
+
+Juan has a PhD in Physics from FAMAF-UNC. He is a Research Associate at CONICET, where he studies complex networks and systems at IFEG. Additionally, Juan serves as an Assistant Professor at FAMAF-UNC. Previously, Juan did two postdocs studying Complex Networks, one at Aalto University, Espoo, Finland and another at the IMT School of Advanced Studies at Luca, Italy.
+
+## Extended Team Members
+
+These individuals contribute intermittently to the Catalyst Project
+
+**2i2c:** Erik Sundell, Georgiana Dolocan, Pris Nasrat, Sarah Gibson, Yuvi Panda, 
+
+**MetaDocencia:** Nicolás Palopoli
+
+**The Carpentries:** Zhian Kamvar, Kari L. Jordan, 
+
+**CSCCE:** Katie Pratt
+
+**OLS:** Malvika Sharan, Patricia Herterich
+
+**IOI:** Kaitlin Thaney
+
+## Past Team Members
+
+**The Carpentries:** Erin Becker
+
+**IOI:** Tania Lizzeth Hernandez Ortiz, Anne Britton
+
+**MetaDocencia:** Melissa Black
+
+**OLS:** Emmy Tsang
+
+## Contact the Catalyst Project
+
+We would love to hear from you! If you have questions about our work, or would like to partner with us, please visit our [contact page](contact.md) for more information. 
