@@ -6,6 +6,10 @@ This repo contains the Jupyter Book source files for the [catalystproject.cloud]
 
 Our goal is to create a collaborative cloud infrastructure service that enables community-based cloud-native workflows in the biosciences. We will promote values of open and inclusive community practices, infrastructure that enables these practices, and a “train the trainers” approach that empowers community leaders to share expertise in cloud infrastructure with others in their communities. Our focus will be on communities in Latin America and Africa, and we hope to learn how this model could be extended to other global communities that are historically marginalized from large-scale scientific infrastructure projects.[^1]
 
+## Contributing
+
+See [CONTRIBUTING.md](CONTRIBUTING.md) if you would like to add a new page to the website or request a minor edit.
+
 ## Getting Started
 
 We recommend editing the contents of this repo using the 2i2c Community Showcase Hub.
