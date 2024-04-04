@@ -453,7 +453,7 @@ These individuals contribute intermittently to the Catalyst Project
 
 **MetaDocencia:** Nicolás Palopoli
 
-**The Carpentries:** Zhian Kamvar, Kari L. Jordan, 
+**The Carpentries:** Erin Becker, Kari L. Jordan 
 
 **CSCCE:** Katie Pratt
 
@@ -463,7 +463,7 @@ These individuals contribute intermittently to the Catalyst Project
 
 ## Past Team Members
 
-**The Carpentries:** Erin Becker
+**The Carpentries:** Zhian Kamvar
 
 **IOI:** Tania Lizzeth Hernandez Ortiz, Anne Britton
 
