@@ -4,7 +4,8 @@ pandas
 matplotlib
 pyyaml
 requests
-jupyter-book
+jupyter-book>=1.0.0
+jupytext
 sphinx
 sphinx-autobuild
 sphinx-copybutton
