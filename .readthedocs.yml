@@ -2,6 +2,8 @@
 # ref: https://docs.readthedocs.io/en/stable/config-file/v2.html
 version: 2
 
+submodules:
+  include: all
 build:
   os: ubuntu-22.04
   tools:
@@ -9,8 +11,6 @@ build:
     nodejs: "16"
   commands:
     - pip install -r requirements.txt
-    - git pull --recurse-submodules
-    - git submodule update --remote --recursive
     - jupyter-book build catalystbook/
     - mkdir -p $READTHEDOCS_OUTPUT/html/
     - cp -r catalystbook/_build/html/* $READTHEDOCS_OUTPUT/html/
