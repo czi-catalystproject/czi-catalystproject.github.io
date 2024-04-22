@@ -37,8 +37,8 @@ jobs:
 
     # (optional) Cache your executed notebooks between runs
     # if you have config:
-    execute:
-      execute_notebooks: cache
+#     execute:
+#       execute_notebooks: cache
     - name: cache executed notebooks
       uses: actions/cache@v3
       with:
