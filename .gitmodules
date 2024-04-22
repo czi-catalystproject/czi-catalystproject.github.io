@@ -1,0 +1,3 @@
+[submodule "catalystbook/hub-activity"]
+	path = catalystbook/hub-activity
+	url = https://github.com/czi-catalystproject/hub-activity.git
