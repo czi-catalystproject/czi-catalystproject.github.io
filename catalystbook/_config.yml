@@ -73,7 +73,6 @@ parse:
 sphinx:
   extra_extensions:
   - myst_nb
-  - nbsphinx
 #   - sphinx_inline_tabs
   config:
     language: en
