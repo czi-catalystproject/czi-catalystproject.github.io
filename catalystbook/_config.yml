@@ -8,11 +8,12 @@ logo: images/catalyst-logo/catalyst-logo-dark-bg-white.png
 copyright: '2024'
 description: >-
    This is The Catalyst Project brochure website, built with JupyterBook. 
+# Patterns to skip when building the book. Can be glob-style (e.g. "*skip.ipynb")
+exclude_patterns            : [_build, Thumbs.db, .DS_Store, "**.ipynb_checkpoints", hub-activity/README.md]
 
-# Force re-execution of notebooks on each build.
 # See https://jupyterbook.org/content/execute.html
 execute:
-  execute_notebooks: force
+  execute_notebooks: auto
 
 # Define the name of the latex output file for PDF builds
 latex:
@@ -70,15 +71,21 @@ parse:
 
 # Localisation
 sphinx:
-#   extra_extensions:
+  extra_extensions:
+  - myst_nb
 #   - sphinx_inline_tabs
   config:
     language: en
     html_show_copyright: false
     html_last_updated_fmt: '%b %d, %Y'
+    html_js_files:
+    - https://cdn.plot.ly/plotly-2.31.1.min.js #  NOTE: load plotly before require
+    - https://cdnjs.cloudflare.com/ajax/libs/require.js/2.3.4/require.min.js
+    suppress_warnings: ["mystnb.unknown_mime_type"]
     nb_render_priority:
       gettext: {}
     locale_dirs: ['locale/']
     gettext_compact: false
     gettext_additional_targets: ['literal-block']
     gettext_location: false
+    

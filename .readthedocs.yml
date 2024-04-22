@@ -2,6 +2,9 @@
 # ref: https://docs.readthedocs.io/en/stable/config-file/v2.html
 version: 2
 
+submodules:
+  include: all
+  recursive: true
 build:
   os: ubuntu-22.04
   tools:
@@ -10,6 +13,7 @@ build:
   commands:
     - pip install -r requirements.txt
     - jupyter-book build catalystbook/
+    - cat /home/docs/checkouts/readthedocs.org/user_builds/catalyst-website/checkouts/53/catalystbook/_build/html/reports/hub-activity/hub-activity.err.log
     - mkdir -p $READTHEDOCS_OUTPUT/html/
     - cp -r catalystbook/_build/html/* $READTHEDOCS_OUTPUT/html/
 
