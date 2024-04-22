@@ -1,3 +1,17 @@
+---
+jupytext:
+  formats: md:myst
+  text_representation:
+    extension: .md
+    format_name: myst
+    format_version: 0.13
+    jupytext_version: 1.16.1
+kernelspec:
+  display_name: Python 3 (ipykernel)
+  language: python
+  name: python3
+---
+
 # Current community partners
 
 During the initial phase the Catalyst Project aims to work with 10 community partners in Africa and a further 10 in Latin America. You can find the currently active community partners listed below. Where websites are available these are linked from each partner’s logo.
@@ -120,3 +134,7 @@ Medellín, Colombia
 :::
 
 ::::
+
+```{raw} html
+:file: hub-activity/activity.html
+```
