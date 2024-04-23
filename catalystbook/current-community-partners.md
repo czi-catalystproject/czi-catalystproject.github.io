@@ -136,5 +136,5 @@ Medellín, Colombia
 ::::
 
 ```{raw} html
-:file: hub-activity/activity.html
+:file: 01-hub-activity/activity.html
 ```
