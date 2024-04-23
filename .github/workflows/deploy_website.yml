@@ -55,6 +55,8 @@ jobs:
 
     # Build the book
     - name: Build the book
+      env:
+        GRAFANA_TOKEN: ${{ secrets.GRAFANA_TOKEN }}
       run: |
         jupyter-book build catalystbook/
 
