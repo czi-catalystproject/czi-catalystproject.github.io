@@ -61,9 +61,6 @@ jobs:
         jupyter-book build .
       working-directory: ./catalystbook 
 
-    # ls
-    - run: ls catalystbook/hub-activity
-
     # Upload the book's HTML as an artifact
     - name: Upload artifact
       uses: actions/upload-pages-artifact@v2
