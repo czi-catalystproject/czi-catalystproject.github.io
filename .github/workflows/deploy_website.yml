@@ -42,8 +42,8 @@ jobs:
 #     execute:
 #       execute_notebooks: cache
     - name: Cache executed notebooks
-      working-directory: ./catalystbook
       uses: actions/cache@v3
+      working-directory: ./catalystbook
       with:
         path: _build/.jupyter_cache
         key: jupyter-book-cache-${{ hashFiles('requirements.txt') }}
@@ -55,9 +55,9 @@ jobs:
 
     # Build the book
     - name: Build the book
-      working-directory: ./catalystbook
       env:
         GRAFANA_TOKEN: ${{ secrets.GRAFANA_TOKEN }}
+      working-directory: ./catalystbook 
       run: |
         jupyter-book build .
 
