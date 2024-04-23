@@ -13,6 +13,9 @@ on:
     - catalystbook/**
   # Trigger the workflow manually
   workflow_dispatch:    
+  # Runs at 1am each day.
+  schedule:
+    - cron: '0 1 * * *'
 
 # This job installs dependencies, builds the book, and pushes it to `gh-pages`
 jobs:
