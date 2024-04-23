@@ -58,6 +58,9 @@ jobs:
       run: |
         jupyter-book build catalystbook/
 
+    # Cat error log
+    - run: cat /home/runner/work/czi-catalystproject.github.io/czi-catalystproject.github.io/catalystbook/_build/html/reports/hub-activity/hub-activity.err.log        
+
     # Upload the book's HTML as an artifact
     - name: Upload artifact
       uses: actions/upload-pages-artifact@v2
