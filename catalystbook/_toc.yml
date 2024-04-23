@@ -21,6 +21,7 @@ parts:
   - caption: Blog
     chapters:
     - file: blog/2024-04-hub-champion-training
+    - file: blog/2024-04-23-welcome
   - caption: Reference
     chapters:
     - file: privacy
