@@ -22,7 +22,10 @@ jobs:
       pages: write
       id-token: write
     steps:
-    - uses: actions/checkout@v3
+    - name: Checkout repository and submodules 
+      uses: actions/checkout@v3
+      with: 
+        submodules: recursive
 
     # Install dependencies
     - name: Set up Python 3.11
@@ -34,27 +37,32 @@ jobs:
       run: |
         pip install -r requirements.txt
 
-
     # (optional) Cache your executed notebooks between runs
     # if you have config:
-    execute:
-      execute_notebooks: cache
-    - name: cache executed notebooks
+#     execute:
+#       execute_notebooks: cache
+    - name: Cache executed notebooks
       uses: actions/cache@v3
       with:
+        working-directory: ./catalystbook
         path: _build/.jupyter_cache
         key: jupyter-book-cache-${{ hashFiles('requirements.txt') }}
 
     # Update git submodules
     - name: Update git submodules
       run: |
-        git pull --recurse-submodules
-        git submodule update --remote --recursive
+        git submodule update --init --recursive
 
     # Build the book
     - name: Build the book
+      env:
+        GRAFANA_TOKEN: ${{ secrets.GRAFANA_TOKEN }}
       run: |
-        jupyter-book build catalystbook/
+        jupyter-book build .
+      working-directory: ./catalystbook 
+
+    # ls
+    - run: ls catalystbook/hub-activity
 
     # Upload the book's HTML as an artifact
     - name: Upload artifact
