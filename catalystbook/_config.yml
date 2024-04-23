@@ -9,7 +9,7 @@ copyright: '2024'
 description: >-
    This is The Catalyst Project brochure website, built with JupyterBook. 
 # Patterns to skip when building the book. Can be glob-style (e.g. "*skip.ipynb")
-exclude_patterns            : [_build, Thumbs.db, .DS_Store, "**.ipynb_checkpoints", hub-activity/README.md]
+exclude_patterns            : [_build, Thumbs.db, .DS_Store, "**.ipynb_checkpoints", 01-hub-activity/README.md]
 
 # See https://jupyterbook.org/content/execute.html
 execute:
