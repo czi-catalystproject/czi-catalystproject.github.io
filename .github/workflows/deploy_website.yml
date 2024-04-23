@@ -57,10 +57,9 @@ jobs:
     - name: Build the book
       env:
         GRAFANA_TOKEN: ${{ secrets.GRAFANA_TOKEN }}
-      with:
-        working-directory: ./catalystbook 
       run: |
         jupyter-book build .
+      working-directory: ./catalystbook 
 
     # ls
     - run: ls catalystbook/hub-activity
