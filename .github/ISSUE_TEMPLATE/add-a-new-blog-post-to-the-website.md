@@ -1,9 +1,9 @@
 ---
-name: Add a blog post
+name: Add a new blog post to the website
 about: Use this issue to add a new blog post to the Catalyst Project blog.
 title: ''
-labels: ''
-assignees: jnywong, katiepratt
+labels: enhancement
+assignees: jnywong, katiepratt, LouWoodley, SLLDeC, Tajuddeen1
 
 ---
 
@@ -22,6 +22,8 @@ Google doc for drafting copy: <paste a link to the Google Doc here>
 - [ ] Drafting content: <@your_github_username>
 - [ ] Sub-team review: <@corresponding project sub-team reviewer> (see The Catalyst Project Blog - Project Planning Doc in *Team Drive > Communication*) 
 - [ ] Handoff: @katiepratt to provide editorial review
-- [ ] Draft blog post preview: @jnywong to prepare a preview for publishing
-- [ ] Final sign-off: @katiepratt
-- [ ] New blog post is published: @jnywong
+- [ ] Hand off to Katie for final review @katiepratt 
+- [ ] Hand off to MD for translation @SLLDeCuntil the end of April
+- [ ] Hand off to Jenny to draft website previews - 2 separate posts @jnywong 
+- [ ] Final approval of English post by Katie @katiepratt 
+- [ ] Final approval of Spanish post by Sabrina @SLLDeC
