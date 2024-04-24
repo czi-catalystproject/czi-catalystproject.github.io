@@ -9,11 +9,11 @@ copyright: '2024'
 description: >-
    This is The Catalyst Project brochure website, built with JupyterBook. 
 # Patterns to skip when building the book. Can be glob-style (e.g. "*skip.ipynb")
-exclude_patterns            : [_build, Thumbs.db, .DS_Store, "**.ipynb_checkpoints", 01-hub-activity/README.md]
+exclude_patterns: [_build, Thumbs.db, .DS_Store, "**.ipynb_checkpoints", 01-hub-activity/README.md, README.md, CONTRIBUTING.md ]
 
 # See https://jupyterbook.org/content/execute.html
 execute:
-  execute_notebooks: auto
+  execute_notebooks: cache
 
 # Define the name of the latex output file for PDF builds
 latex:
@@ -72,8 +72,8 @@ parse:
 # Localisation
 sphinx:
   extra_extensions:
-  - myst_nb
-#   - sphinx_inline_tabs
+    - myst_nb
+    - ablog
   config:
     language: en
     html_show_copyright: false
@@ -81,6 +81,23 @@ sphinx:
     html_js_files:
     - https://cdn.plot.ly/plotly-2.31.1.min.js #  NOTE: load plotly before require
     - https://cdnjs.cloudflare.com/ajax/libs/require.js/2.3.4/require.min.js
+    html_sidebars:
+      {"blog": [
+        "navbar-logo.html",
+        "search-field.html",     
+        "sbt-sidebar-nav.html",        
+        "ablog/tagcloud.html",           
+        ],
+       "blog/*": [
+        "navbar-logo.html",
+        "search-field.html",   
+        "sbt-sidebar-nav.html",
+        "ablog/postcard.html",         
+        "ablog/tagcloud.html",              
+        ],
+      }
+    html_theme_options:
+      collapse_navbar: false
     suppress_warnings: ["mystnb.unknown_mime_type"]
     nb_render_priority:
       gettext: {}
@@ -88,4 +105,7 @@ sphinx:
     gettext_compact: false
     gettext_additional_targets: ['literal-block']
     gettext_location: false
+    blog_path: "blog"
+    blog_title: "Blog"
+    blog_post_pattern: "blog-posts/*.md"
     
