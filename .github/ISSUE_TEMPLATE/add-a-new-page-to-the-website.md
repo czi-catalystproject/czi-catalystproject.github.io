@@ -12,8 +12,7 @@ This issue tracks the drafting, review and approval for adding a new page to the
 This issue is complete when: the copy of this page is approved and published on the website.
 
 **Please edit and insert information enclosed by the <angled brackets> below**
-
-Create a Google Doc in *Catalyst Project Team Drive > External Documentation > Blog Post > your_filename* to draft the copy for your new page.
+Create a Google Doc in *Catalyst Project Team Drive > External Documentation > your_filename* to draft the copy for your new page, with a title of the form "[VERSION #] <your_title>" and append this title with "(ES)" if the draft is in Spanish
 
 Google doc for drafting copy: <paste a link to the Google Doc here>
 
