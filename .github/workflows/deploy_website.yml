@@ -47,8 +47,7 @@ jobs:
     - name: Cache executed notebooks
       uses: actions/cache@v3
       with:
-        working-directory: ./catalystbook
-        path: _build/.jupyter_cache
+        path: catalystbook/_build/.jupyter_cache
         key: jupyter-book-cache-${{ hashFiles('requirements.txt') }}
 
     # Update git submodules
