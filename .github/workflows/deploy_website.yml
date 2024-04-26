@@ -40,16 +40,6 @@ jobs:
       run: |
         pip install -r requirements.txt
 
-    # (optional) Cache your executed notebooks between runs
-    # if you have config:
-#     execute:
-#       execute_notebooks: cache
-    - name: Cache executed notebooks
-      uses: actions/cache@v3
-      with:
-        path: catalystbook/_build/.jupyter_cache
-        key: jupyter-book-cache-${{ hashFiles('requirements.txt') }}
-
     # Update git submodules
     - name: Update git submodules
       run: |
@@ -61,7 +51,17 @@ jobs:
         GRAFANA_TOKEN: ${{ secrets.GRAFANA_TOKEN }}
       run: |
         jupyter-book build .
-      working-directory: ./catalystbook 
+      working-directory: ./catalystbook
+
+    # (optional) Cache your executed notebooks between runs
+    # if you have config:
+#     execute:
+#       execute_notebooks: cache
+    - name: Cache executed notebooks
+      uses: actions/cache@v3
+      with:
+        path: catalystbook/_build/.jupyter_cache
+        key: jupyter-book-cache-${{ hashFiles('requirements.txt') }}       
 
     # Upload the book's HTML as an artifact
     - name: Upload artifact
