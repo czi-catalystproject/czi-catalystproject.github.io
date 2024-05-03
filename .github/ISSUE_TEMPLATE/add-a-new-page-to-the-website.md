@@ -3,7 +3,7 @@ name: Add a new page to the website
 about: Use this issue template to add a new static page to the Catalyst Project website
 title: ''
 labels: enhancement
-assignees: jnywong, katiepratt, LouWoodley, Tajuddeen1
+assignees: LouWoodley, SLLDeC, jnywong, katiepratt, Tajuddeen1
 
 ---
 
@@ -12,8 +12,7 @@ This issue tracks the drafting, review and approval for adding a new page to the
 This issue is complete when: the copy of this page is approved and published on the website.
 
 **Please edit and insert information enclosed by the <angled brackets> below**
-
-Create a Google Doc in *Catalyst Project Team Drive > External Documentation > Blog Post > your_filename* to draft the copy for your new page.
+Create a Google Doc in *Catalyst Project Team Drive > External Documentation > your_filename* to draft the copy for your new page, with a title of the form "[VERSION #] <your_title>" and append this title with "(ES)" if the draft is in Spanish
 
 Google doc for drafting copy: <paste a link to the Google Doc here>
 
@@ -22,6 +21,7 @@ Google doc for drafting copy: <paste a link to the Google Doc here>
 - [ ] Drafting content: <@your_github_username>
 - [ ] Sub-team review: <@corresponding project sub-team reviewer> (see The Catalyst Project Blog - Project Planning Doc in *Team Drive > Communication*) 
 - [ ] Handoff: @katiepratt to provide editorial review
-- [ ] Draft website preview: @jnywong to prepare a preview for website publishing
-- [ ] Final sign-off: @katiepratt
-- [ ] New page is published: @jnywong
+- [ ] Hand off to MD for translation @SLLDeC
+- [x] Hand off to Jenny to draft website previews - 2 separate posts @jnywong 
+- [ ] Final approval of English post by Katie @katiepratt 
+- [ ] Final approval of Spanish post by Sabrina @SLLDeC
