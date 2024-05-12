@@ -86,14 +86,16 @@ sphinx:
         "navbar-logo.html",
         "search-field.html",     
         "sbt-sidebar-nav.html",        
-        "ablog/tagcloud.html",           
+        "ablog/tagcloud.html",
+        "ablog/languages.html",
         ],
        "blog/*": [
         "navbar-logo.html",
         "search-field.html",   
         "sbt-sidebar-nav.html",
         "ablog/postcard.html",         
-        "ablog/tagcloud.html",              
+        "ablog/tagcloud.html",
+        "ablog/languages.html",
         ],
       }
     html_theme_options:
