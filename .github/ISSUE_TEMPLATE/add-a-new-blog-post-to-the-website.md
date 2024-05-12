@@ -13,7 +13,9 @@ This issue is complete when: the copy of this page is approved and published on 
 
 **Please edit and insert information enclosed by the <angled brackets> below**
 
-Create a Google Doc in *Catalyst Project Team Drive > External Documentation > Blog posts > your_filename* to draft the copy for your new page, with a title of the form "[VERSION #] <your_title>" and append this title with "(ES)" if the draft is in Spanish
+Create a Google Doc in *Catalyst Project Team Drive > External Documentation > Blog posts > your_filename* to draft the copy for your new page, with a title of the form "[VERSION #] <your_title>" and append this title with "(ES)" if the draft is in Spanish.
+
+Please consult the [Style Guide](https://docs.google.com/document/d/1qMSvTmqBuBow98tvxgNvsVZB9eo-pItWfGZPy8W_cok/edit?usp=sharing) for more information, including which metadata tags to choose from for your blog post.
 
 Google doc for drafting copy: <paste a link to the Google Doc here>
 

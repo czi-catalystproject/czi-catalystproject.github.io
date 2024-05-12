@@ -3,7 +3,7 @@ name: Add a new page to the website
 about: Use this issue template to add a new static page to the Catalyst Project website
 title: ''
 labels: enhancement
-assignees: LouWoodley, SLLDeC, jnywong, katiepratt, Tajuddeen1
+assignees: jnywong, katiepratt, LouWoodley, SLLDeC, Tajuddeen1
 
 ---
 
