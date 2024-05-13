@@ -21,7 +21,7 @@ Este blog será el lugar principal donde las comunidades asociadas podrán encon
 
 * Cualquier actualización o cambio en el proceso de reclutamiento e incorporación.
 * Próximas sesiones de capacitación para los líderes de la comunidad y quienes administran el Hub.
-* Estudios de caso que destacan a las comunidades asociadas y cómo están utilizando la infraestructura del Proyecto Catalyst.
+* Casos de estudio que destacan a las comunidades asociadas y cómo están utilizando la infraestructura del Proyecto Catalyst.
 * Oportunidades para proporcionar comentarios sobre el proyecto y conectarse con otros.
 * Actualizaciones sobre las formas en que el equipo central del proyecto Catalyst está integrando los comentarios de las comunidades asociadas.
 
