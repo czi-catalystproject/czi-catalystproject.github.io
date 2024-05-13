@@ -2,7 +2,7 @@
 blogpost: true
 date: May 12, 2024
 author: Katie Pratt (CSCCE), Lou Woodley (CSCCE)
-tags: Publicaciones, Socios de la comunidad
+tags: Novedades, Comunidades asociadas
 language: Español
 ---
 
