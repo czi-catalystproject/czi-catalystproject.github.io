@@ -1,3 +1,11 @@
+---
+blogpost: true
+date: Mar 22, 2024
+author: Jenny Wong (2i2c)
+tags: News, Training
+language: English
+---
+
 # April 2024 – Hub Champion Training Workshop (English Version)
 
 :::::{grid} 1 1 2 2

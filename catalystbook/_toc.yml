@@ -18,9 +18,8 @@ parts:
       - url: https://catalystproject.cloud/hub-champion-training/
         title: Hub Champion Training lesson website
     - file: contact
-  - caption: Blog
-    chapters:
-    - file: blog/2024-04-hub-champion-training
+  - chapters:
+      - file: blog
   - caption: Reference
     chapters:
     - file: privacy

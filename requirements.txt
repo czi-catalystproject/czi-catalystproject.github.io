@@ -1,11 +1,11 @@
-myst-nb
-myst-parser[linkify]
-pandas
-matplotlib
-pyyaml
-requests
+ablog
 jupyter-book>=1.0.0
 jupytext
+matplotlib
+myst-nb
+pandas
+pyyaml
+requests
 sphinx
 sphinx-autobuild
 sphinx-copybutton
