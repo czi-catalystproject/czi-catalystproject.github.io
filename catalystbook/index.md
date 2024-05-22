@@ -6,6 +6,13 @@ The project, which is funded by the [Chan Zuckerberg Initiative (CZI)](https://c
 
 Our work is continuously influenced by contextual feedback from the biomedical researchers, engineers, and computer scientists that we serve in Africa and Latin America. 
 
+:::{figure} https://2i2c.org/kpis/_downloads/10da5b6edd481aa0c5fc8a706771ecb9/Catalyst_map.png
+:alt: Map showing locations of Catalyst Project hubs.
+:align: center
+
+Map showing locations of Catalyst Project hubs.
+:::
+
 :::{button-ref} about
 :align: center
 :color: primary
