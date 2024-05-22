@@ -142,7 +142,7 @@ Chile
 :::
 
 :::{grid-item-card}
-:img-top: images/community-partner-logos/unam-logo.png
+:img-top: images/community-partner-logos/unam-logo.jpg
 :img-alt: Logo for El Nodo Nacional de Bioinformática del Centro de Ciencias Genómicas.
 :link: https://www.nnb.unam.mx/
 El Nodo Nacional de Bioinformática del Centro de Ciencias Genómicas (NNB-CCG)
