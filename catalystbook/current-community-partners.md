@@ -133,6 +133,41 @@ GITA Lab
 Medellín, Colombia
 :::
 
+:::{grid-item-card}
+:img-top: images/community-partner-logos/plnc-placeholder.png
+:img-alt: Placeholder image for Grupo de Procesamiento de Lenguaje Natural Clínico.
+Grupo de Procesamiento de Lenguaje Natural Clínico (PLNC)
++++
+Chile
+:::
+
+:::{grid-item-card}
+:img-top: images/community-partner-logos/unam-logo.jpg
+:img-alt: Logo for El Nodo Nacional de Bioinformática del Centro de Ciencias Genómicas.
+:link: https://www.nnb.unam.mx/
+El Nodo Nacional de Bioinformática del Centro de Ciencias Genómicas (NNB-CCG)
++++
+México
+:::
+
+:::{grid-item-card}
+:img-top: images/community-partner-logos/cabana-logo.png
+:img-alt: Logo for Capacity building for Bioinformatics in Latin America.
+:link: https://cabana.network/
+Capacity Building for Bioinformatics in Latin America (CABANAnet)
++++
+Costa Rica
+:::
+
+:::{grid-item-card}
+:img-top: images/community-partner-logos/iner-logo.jpeg
+:img-alt: Logo for Instituto Nacional de Enfermedades Respiratorias.
+Instituto Nacional de Enfermedades Respiratorias (INER)
++++
+México
+:::
+
+
 ::::
 
 ```{raw} html
