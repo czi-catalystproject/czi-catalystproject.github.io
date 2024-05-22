@@ -147,7 +147,16 @@ Chile
 :link: https://www.nnb.unam.mx/
 El Nodo Nacional de Bioinformática del Centro de Ciencias Genómicas (NNB-CCG)
 +++
-Universidad Nacional Autónoma de México, México
+México
+:::
+
+:::{grid-item-card}
+:img-top: images/community-partner-logos/cabana-logo.png
+:img-alt: Logo for Capacity building for Bioinformatics in Latin America.
+:link: https://cabana.network/
+Capacity Building for Bioinformatics in Latin America (CABANAnet)
++++
+Costa Rica
 :::
 
 ::::
