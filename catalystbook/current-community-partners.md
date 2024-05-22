@@ -133,6 +133,14 @@ GITA Lab
 Medellín, Colombia
 :::
 
+:::{grid-item-card}
+:img-top: images/community-partner-logos/plnc-placeholder.png
+:img-alt: Placeholder image for Grupo de Procesamiento de Lenguaje Natural Clínico.
+Grupo de Procesamiento de Lenguaje Natural Clínico (PLNC)
++++
+Chile
+:::
+
 ::::
 
 ```{raw} html
