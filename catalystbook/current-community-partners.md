@@ -141,6 +141,15 @@ Grupo de Procesamiento de Lenguaje Natural Clínico (PLNC)
 Chile
 :::
 
+:::{grid-item-card}
+:img-top: images/community-partner-logos/unam-logo.png
+:img-alt: Logo for El Nodo Nacional de Bioinformática del Centro de Ciencias Genómicas.
+:link: https://www.nnb.unam.mx/
+El Nodo Nacional de Bioinformática del Centro de Ciencias Genómicas (NNB-CCG)
++++
+Universidad Nacional Autónoma de México, México
+:::
+
 ::::
 
 ```{raw} html
