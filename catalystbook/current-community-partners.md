@@ -159,6 +159,15 @@ Capacity Building for Bioinformatics in Latin America (CABANAnet)
 Costa Rica
 :::
 
+:::{grid-item-card}
+:img-top: images/community-partner-logos/iner-logo.jpeg
+:img-alt: Logo for Instituto Nacional de Enfermedades Respiratorias.
+Instituto Nacional de Enfermedades Respiratorias (INER)
++++
+México
+:::
+
+
 ::::
 
 ```{raw} html
