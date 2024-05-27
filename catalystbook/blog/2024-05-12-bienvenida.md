@@ -1,7 +1,7 @@
 ---
 blogpost: true
 date: May 12, 2024
-author: Katie Pratt (CSCCE), Lou Woodley (CSCCE)
+author: Katie Pratt (CSCCE), Lou Woodley (CSCCE), Mariela Rajngewerc (MetaDocencia), Laura Ación (MetaDocencia), Sabrina López (MetaDocencia)
 tags: Novedades, Comunidades asociadas
 language: Español
 ---
