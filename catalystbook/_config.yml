@@ -89,7 +89,7 @@ sphinx:
         "ablog/tagcloud.html",
         "ablog/languages.html",
         ],
-       "blog/*": [
+       "blog/**": [
         "navbar-logo.html",
         "search-field.html",   
         "sbt-sidebar-nav.html",
