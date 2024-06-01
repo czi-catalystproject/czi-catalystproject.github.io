@@ -98,8 +98,6 @@ sphinx:
         "ablog/languages.html",
         ],
       }
-    html_theme_options:
-      collapse_navbar: false
     suppress_warnings: ["mystnb.unknown_mime_type"]
     nb_render_priority:
       gettext: {}

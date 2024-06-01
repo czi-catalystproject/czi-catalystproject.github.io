@@ -308,12 +308,31 @@ Camille applies her background in higher education, workforce development, socia
 
 <br>
 
+:::::{grid} 1 1 2 2
+
+::::{grid-item}
+:columns: 12 12 4 4
+
+:::{image} images/people-profiles/cscce-msanghvi.jpg
+
+:::
+
+::::
+
+::::{grid-item}
+
 **Maya Sanghvi** (CSCCE) \
 maya.sanghvi@cscce.org \
 UTC -5 / US Eastern Time \
-Various locations  
+Various locations
 
-Maya is a recent graduate from Yale University, with a BS in cognitive science. Maya spent much of her undergraduate career devoted to decision-making research, and contributed to campus life through her work as a Communication and Consent Educator. At CSCCE, she joins the training team and will be supporting the delivery of online courses and client work.
+::::
+
+:::::
+
+Maya graduated from Yale University with a BS in cognitive science, where she spent much of her undergraduate career devoted to decision-making research and contributed to campus life through her work as a Communication and Consent Educator. At CSCCE, she is part of the training team, supporting the delivery of online courses, client work, and collaborative projects like Catalyst. 
+
+<br>
 
 ## IOI
 
