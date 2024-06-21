@@ -1,7 +1,7 @@
 ---
 blogpost: true
 date: Jun 21, 2024
-author: Sabrina López (MetaDocencia), Aléjandro Silve (CCAD, 2i2c),Jenny Wong (2i2c)
+author: Sabrina López (MetaDocencia), Alejandro Silva (CCAD, 2i2c),Jenny Wong (2i2c)
 tags: Novedades, Formación
 language: Español
 ---
