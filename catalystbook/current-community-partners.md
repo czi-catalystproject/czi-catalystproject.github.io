@@ -178,6 +178,7 @@ México
 :::{grid-item-card}
 :img-top: images/community-partner-logos/lat-am-bioimaging-logo.png
 :img-alt: Logo for Latin America Bioimaging.
+:link: https://labi.lat/
 Latin America Bioimaging
 +++
 Latin America
