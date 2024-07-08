@@ -167,6 +167,21 @@ Instituto Nacional de Enfermedades Respiratorias (INER)
 México
 :::
 
+:::{grid-item-card}
+:img-top: images/community-partner-logos/labcom-logo.png
+:img-alt: Logo for Laboratorio de Biología Computacional de Microorganismos.
+Laboratorio de Biología Computacional de Microorganismos (LABCOM)
++++
+México
+:::
+
+:::{grid-item-card}
+:img-top: images/community-partner-logos/lat-am-bioimaging-logo.png
+:img-alt: Logo for Latin America Bioimaging.
+Latin America Bioimaging
++++
+Latin America
+:::
 
 ::::
 
