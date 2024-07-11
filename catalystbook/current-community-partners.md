@@ -185,10 +185,10 @@ Latin America
 :::
 
 :::{grid-item-card}
-:img-top: images/community-partner-logos/ac3-logo.jpg
-:img-alt: Logo for Arecibo C3.
+:img-top: images/community-partner-logos/umbc-ac3-logo.jpg
+:img-alt: Logo for UMBC Arecibo C3.
 :link: https://www.areciboc3.org/
-Arecibo C3
+Fundación Valle del Lili-UMBC – Arecibo C3
 +++
 Puerto Rico
 :::
