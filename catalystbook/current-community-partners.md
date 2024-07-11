@@ -184,6 +184,15 @@ Latin America Bioimaging
 Latin America
 :::
 
+:::{grid-item-card}
+:img-top: images/community-partner-logos/ac3-logo.jpg
+:img-alt: Logo for Arecibo C3.
+:link: https://www.areciboc3.org/
+Arecibo C3
++++
+Puerto Rico
+:::
+
 ::::
 
 ```{raw} html
