@@ -22,4 +22,5 @@ parts:
       - file: blog
   - caption: Reference
     chapters:
+    - file: faqs
     - file: privacy
