@@ -16,9 +16,13 @@ We are have accepted applications from organisations located in Africa and Latin
 
 Active Community Leaders and Champions can contact Catalyst Project Programme Manager Tajuddeen Gwadabe directly at [tajuddeen@we-are-ols.org](mailto:tajuddeen@we-are-ols.org).
 
-You can find contact details for additional Core Team personnel on our [Team page](team.md). 
+You can find contact details for additional Core Team personnel on our [Team page](team.md).
 
 If you are interested in accessing cloud infrastructure after the project ends, please contact 2i2c ([partnerships@2i2c.org](mailto:partnerships@2i2c.org)) to find out more about pricing. Throughout the duration of the Catalyst Project, we are monitoring Community Partner usage in order to support communities in making informed decisions about their needs.
+
+## Technical Support
+
+If you are a Hub Champion and require technical support for your hub, then please email [support@2i2c.org](mailto:support@2i2c.org). Hub users are required to refer to their Hub Champion to raise a support request on their behalf.
 
 (register)=
 ## Community Partner application form
