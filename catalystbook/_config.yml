@@ -84,6 +84,7 @@ sphinx:
     html_js_files:
     - https://cdn.plot.ly/plotly-2.31.1.min.js #  NOTE: load plotly before require
     - https://cdnjs.cloudflare.com/ajax/libs/require.js/2.3.4/require.min.js
+    - ['https://plausible.io/js/script.js', {'defer': 'defer', 'data-domain': 'catalystproject.cloud'}]
     html_sidebars:
       {"blog": [
         "navbar-logo.html",
