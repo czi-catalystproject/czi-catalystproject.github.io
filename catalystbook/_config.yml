@@ -55,6 +55,9 @@ html:
         </div>        
       </div>        
     </div>
+  analytics:
+    plausible_analytics_domain: catalystproject.cloud
+    plausible_analytics_url: https://plausible.io/js/script.js
 
 parse:
   myst_enable_extensions:  # default extensions to enable in the myst parser. See https://myst-parser.readthedocs.io/en/latest/using/syntax-optional.html
