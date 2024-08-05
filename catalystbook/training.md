@@ -26,14 +26,15 @@ In combination with the Train-the-Trainer workshop, participants in this trainin
 
 **Supported languages:** This workshop, and associated materials, will be available in English and Spanish. 
 
-**Registration information:** Community Partner leaders will be contacted by email. See the event page for the [April 2024 – Hub Champion Training workshop (English Version)](blog/2024-04-hub-champion-training).
+**Registration information:** Community Partner leaders will be contacted by email. See the event pages in our [blog](blog.md).
 
 ## Train the Trainer Workshop
 
 **For:** Hub Champions \
 **Hosted by:** The Carpentries \
 \
-**About:** This training will support individuals in gaining the skills they need to train others in their community on administering a 2i2c cloud hub. Participants will: 
+**About:** This training will support individuals in gaining the skills they need to train others in their community on administering a 2i2c cloud hub. Participants will:
+
 - Explore evidence-based teaching practices
 - Learn how to create a positive environment for learners at workshops and training events
 - Practise and build teaching skills
@@ -52,7 +53,8 @@ After the Hub Champions take both the Hub Champion training and the “Train the
 **For:** Community Champions and interested Community Members \
 **Hosted by:** OLS \
 \
-**About:** OLS’s open science training, Open Seeds, is a mentoring and training program for Open Science ambassadors. Participants in this training will: 
+**About:** OLS’s open science training, Open Seeds, is a mentoring and training program for Open Science ambassadors. Participants in this training will:
+
 - Share their expertise and gain knowledge essential to create, lead, and sustain an Open Science project
 - Connect with members across different projects, communities, backgrounds, and identities
 - Empower each other to become effective Open Science ambassadors in their communities
@@ -61,7 +63,7 @@ After the Hub Champions take both the Hub Champion training and the “Train the
 
 Participating in this training will also connect learners to a growing community of almost 400 OLS alumni - individuals around the world who are ambassadors for open science practices. 
 
-**Supported languages:** This training is only available in English. 
+**Supported languages:** This training is only available in English.
 
 **Registration information:** Applications open July 1 2024 and Community Partner leaders will be contacted by email.
 
