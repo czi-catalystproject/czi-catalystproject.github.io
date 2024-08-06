@@ -110,4 +110,4 @@ Meet the members of the Core Team
 
 ## Contact the Catalyst Project
 
-If you have questions about our work, or would like to partner with us, please visit our [Contact page](contact.md) for more information. 
+If you have questions about our work, or would like to partner with us, please visit our [Contact page](contact.md) for more information.
