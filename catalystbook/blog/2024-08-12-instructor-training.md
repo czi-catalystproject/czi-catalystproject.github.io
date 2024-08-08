@@ -1,6 +1,6 @@
 ---
 blogpost: true
-date: August 12, 2024
+date: August 8, 2024
 author: Toby Hodges (The Carpentries)
 tags: News, Training
 language: English
