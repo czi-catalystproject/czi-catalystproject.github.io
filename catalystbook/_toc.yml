@@ -24,4 +24,6 @@ parts:
   - caption: Reference
     chapters:
     - file: faqs
+    - file: microgrants-honoraria-workflow-en
+    - file: microgrants-honoraria-workflow-es
     - file: privacy
