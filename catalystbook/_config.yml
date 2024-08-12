@@ -103,6 +103,7 @@ sphinx:
         ],
       }
     suppress_warnings: ["mystnb.unknown_mime_type"]
+    myst_heading_anchors: 2
     nb_render_priority:
       gettext: {}
     locale_dirs: ['locale/']
