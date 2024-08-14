@@ -28,6 +28,10 @@ Funding from CZI is currently available until November 2025. Get in touch with u
 
 The Catalyst Project will confirm with you before any data is deleted from your hub. If you would like to migrate your data, then this can be arranged. See the [2i2c Infrastructure Guide](https://infrastructure.2i2c.org/hub-deployment-guide/hubs/delete-hub/) for details on how a hub is decommissioned and our [Privacy Policy](privacy.md) for how The Catalyst Project generally manages data.
 
+### Where can I find the Onboarding Document?
+
+You can find the onboarding document on Zenodo: [English version](https://zenodo.org/records/10853513), [Spanish version](https://zenodo.org/records/10852825).
+
 ## Best Practises
 
 ### Can I store sensitive data, such as health records and patient information, on the hub?
