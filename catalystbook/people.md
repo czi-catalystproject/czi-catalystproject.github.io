@@ -254,6 +254,15 @@ Córdoba, Argentina
 
 Juan has a PhD in Physics from FAMAF-UNC. He is a Research Associate at CONICET, where he studies complex networks and systems at IFEG. Additionally, Juan serves as an Assistant Professor at FAMAF-UNC. Previously, Juan did two postdocs studying Complex Networks, one at Aalto University, Espoo, Finland and another at the IMT School of Advanced Studies at Luca, Italy.
 
+<br>
+
+**Alejandro Silva** (CCAD, Secondee at 2i2c) \
+asilva@2i2c.org \
+UTC -3 / Argentina Time \
+Córdoba, Argentina
+
+Alejandro has a a degree in Computer Science form the National University of Córdoba, Argentina. He worked for a few years as a full stack developer and recently changed direction to Systems Administrator in a data centre. He has a blog that he never updates. From time to time he draws little things. He once wrote an assembler game and has a commit on the Linux kernel. He participates in HPC competitions. 
+
 ## CSCCE
 
 :::::{grid} 1 1 2 2
