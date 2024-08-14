@@ -40,6 +40,10 @@ Take a look at our [Training](training.md) page for a comprehensive list of trai
 
 ## Technical Questions
 
+### What is meant by cloud infrastructure?
+
+Cloud infrastructure refers to the hardware and software components to provide a cloud computing environment. In the case of The Catalyst Project, this means the infrastructure used to deliver an interactive computing platform. See the [2i2c website](https://2i2c.org/platform/) for mor information.
+
 ### What is the maximum number of users allowed on the hub?
 
 There is no maximum capacity. 2i2c can deploy hubs in the cloud that can scale resources for as many users as you need. The Catalyst Project funds cover the resource costs.
@@ -47,10 +51,6 @@ There is no maximum capacity. 2i2c can deploy hubs in the cloud that can scale r
 ### What's the maximum storage capacity on the hub?
 
 Again, the same answer as the above applies. We advise extra caution here since storage costs can be expensive. Please consult the [2i2c Service Guide – Data and Filesystem](https://docs.2i2c.org/user/topics/data/) for guidance.
-
-### What is meant by cloud infrastructure?
-
-Cloud infrastructure refers to the hardware and software components to provide a cloud computing environment. In the case of The Catalyst Project, this means the infrastructure used to deliver an interactive computing platform. See the [2i2c website](https://2i2c.org/platform/) for mor information.
 
 ### What kind of hardware is available on the hub?
 
