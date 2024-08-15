@@ -261,7 +261,7 @@ asilva@2i2c.org \
 UTC -3 / Argentina Time \
 Córdoba, Argentina
 
-Alejandro has a a degree in Computer Science form the National University of Córdoba, Argentina. He worked for a few years as a full stack developer and recently changed direction to Systems Administrator in a data centre. He has a blog that he never updates. From time to time he draws little things. He once wrote an assembler game and has a commit on the Linux kernel. He participates in HPC competitions. 
+Alejandro has a degree in Computer Science from the Universidad Nacional de Córdoba (UNC). He worked for a few years as a full stack developer and recently changed direction to Systems Administrator in the HPC center of UNC. He has a blog that he never updates. He once wrote an assembly game and has a commit in the Linux kernel. He participates in HPC competitions. 
 
 ## CSCCE
 
