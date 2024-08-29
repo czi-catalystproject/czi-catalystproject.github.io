@@ -44,6 +44,6 @@ Learners were also expected to undertake a significant portion of the course at 
 
 ## Final thoughts
 
-We are super pleased with how well the learners improved their JupyterHub administration skills with the Hub Champion Training and we hope that they will continue to benefit from The Catalyst Project with the follow-up Train the Trainer course from The Carpentries together with MetaDocencia, and the [Open Seeds Program](https://we-are-ols.org/openseeds/) offered by OLS.
+We are super pleased with how well the learners improved their JupyterHub administration skills with the Hub Champion Training and we hope that they will continue to benefit from The Catalyst Project with the follow-up Train the Trainer course organised by The Carpentries together with MetaDocencia, and the [Open Seeds Program](https://we-are-ols.org/openseeds/) offered by OLS.
 
 We acknowledge the incredible support of [Toby Hodges (The Carpentries)](../people.md#the-carpentries) for providing the framework for designing this lesson with their [Collaborative Lesson Development Training](https://carpentries.org/lesson-development-training/) and invaluable support from [Sabrina López (MetaDocencia)](../people.md#metadocencia) and [Alejandro Silva (CCAD, secondee at 2i2c)](../people.md#ccad) to deliver the Spanish version of this lesson, as well as our wonderful community partners for participating in The Catalyst Project. We are also grateful to The Chan-Zuckerberg Initiative for the financial support.
