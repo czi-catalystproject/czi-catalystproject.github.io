@@ -3,7 +3,7 @@ blogpost: true
 date: August 8, 2024
 author: Sabrina López (MetaDocencia), Laura Ación (MetaDocencia)
 tags: Novedades, Formación
-language: Spanish
+language: Español
 ---
 
 # Septiembre de 2024 - Certificaciones de Instructores/as para las comunidades del Proyecto Catalyst (versión en español)
