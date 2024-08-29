@@ -1,7 +1,7 @@
 ---
 blogpost: true
 date: Aug 23, 2024
-author: Jenny Wong (2i2c), Katie Pratt (CSCCE)
+author: Jenny Wong (2i2c), Katie Pratt (CSCCE), Sabrina López (MetaDocencia)
 tags: News, Training
 language: English
 ---
