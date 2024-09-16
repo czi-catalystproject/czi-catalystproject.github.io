@@ -23,9 +23,8 @@ Google doc for drafting copy: <paste a link to the Google Doc here>
 
 - [ ] Drafting content: <@your_github_username>
 - [ ] Sub-team review: <@corresponding project sub-team reviewer> (see The Catalyst Project Blog - Project Planning Doc in *Team Drive > Communication*) 
-- [ ] Handoff: @katiepratt to provide editorial review
-- [ ] Hand off to Katie for final review @katiepratt 
-- [ ] Hand off to MD for translation @SLLDeCuntil the end of April
-- [ ] Hand off to Jenny to draft website previews - 2 separate posts @jnywong 
+- [ ] Hand off to @katiepratt for final review @katiepratt 
+- [ ] Hand off to MD for translation @SLLDeC
+- [ ] Hand off to @jnywong  to draft website previews - 2 separate posts
 - [ ] Final approval of English post by Katie @katiepratt 
 - [ ] Final approval of Spanish post by Sabrina @SLLDeC
