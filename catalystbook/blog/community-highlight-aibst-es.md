@@ -3,7 +3,7 @@ blogpost: true
 # date: MMM DD, YYYY
 author: Katie Pratt (CSCCE), Sabrina López (MetaDocencia)
 tags: Comunidades asociadas
-language: Spanish
+language: Español
 ---
 
 # Comunidad Asociada Destacada - Instituto Africano de Ciencias Biomédicas y Tecnología (AiBST)
