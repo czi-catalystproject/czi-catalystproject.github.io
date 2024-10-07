@@ -1,7 +1,7 @@
 ---
 blogpost: true
 # date: MMM DD, YYYY
-author: Katie Pratt (CSCCE), Sabrina López (MetaDocencia)
+author: Katie Pratt (CSCCE), Kevin Cabana, (MetaDocencia), Sabrina López (MetaDocencia)
 tags: Comunidades asociadas
 language: Español
 ---
@@ -10,7 +10,7 @@ language: Español
 
 *Esta publicación es parte de una serie que destaca a [las Comunidades asociadas del Proyecto Catalyst](../current-community-partners.md), quienes están utilizando la infraestructura en la nube del Proyecto Catalyst para avanzar en diversos proyectos en las biociencias. Nuestras Comunidades asociadas también juegan un papel vital en la configuración de nuestro modelo de gobernanza, ayudándonos a sostener, escalar y maximizar el impacto en América Latina, África y comunidades desatendidas en todo el mundo.*
 
-En esta publicación, Bennett Kankuzi comparte cómo la colaboración con el Proyecto Catalyst está impactando a la Universidad de Ciencia y Tecnología de Malawi  (MUST, por Malawi University of Science and Technology).
+En esta publicación, Bennett Kankuzi comparte cómo la colaboración con el Proyecto Catalyst está impactando a la Universidad de Ciencia y Tecnología de Malawi  (MUST, por _Malawi University of Science and Technology_).
 
 :::{figure} /images/blog/community-partner-highlights/must-1.jpg
 :alt: A photo of Dr. Bennett Kankuzi delivering a presentation.
@@ -22,7 +22,7 @@ Dr. Bennett Kankuzi inaugurando la Capacitación en Fortalecimiento de Capacidad
 Somos la Comunidad del Proyecto Catalyst en la Universidad de Ciencia y Tecnología de Malawi (MUST) en Malawi. Nuestro objetivo es popularizar la aplicabilidad de la ciencia de datos y la inteligencia artificial en varios contextos de investigación de pregrado y posgrado en Malawi, incluyendo salud, negocios y educación. Actualmente, la comunidad del Proyecto Catalyst en MUST cuenta con más de 50 usuarios activos, siendo en su mayoría estudiantes de posgrado y personal docente.
 
 :::{pull-quote}
-El Proyecto Catalyst en la Universidad de Ciencia y Tecnología de Malawi ha llegado en el momento justo, cuando muchos profesores y estudiantes necesitaban una plataforma robusta y de fácil acceso desde la cual pudieran ejecutar eficientemente sus modelos de aprendizaje automático y realizar análisis avanzados para su investigación en ciencia de datos, sin necesidad de estar físicamente en el campus.
+"El Proyecto Catalyst en la Universidad de Ciencia y Tecnología de Malawi ha llegado en el momento justo, cuando muchos profesores y estudiantes necesitaban una plataforma robusta y de fácil acceso desde la cual pudieran ejecutar eficientemente sus modelos de aprendizaje automático y realizar análisis avanzados para su investigación en ciencia de datos, sin necesidad de estar físicamente en el campus".
 :::
 
 **¿Qué uso específico le están dando a la infraestructura en la nube? ¿Qué tipo de datos almacenan allí? ¿Qué paquetes de software utiliza tu comunidad?**
