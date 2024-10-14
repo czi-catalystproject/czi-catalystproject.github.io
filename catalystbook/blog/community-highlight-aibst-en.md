@@ -22,7 +22,7 @@ Zedias Chikwambi, who contributed to this blog post, using the Catalyst cloud in
 I’m Zedias Chikwambi from the African Institute of Biomedical Sciences and Technology (AiBST) in Zimbabwe. Our mission is to discover and utilise biomarkers to guide personalised treatment. We leverage a wide range of genomic tools—including next generation sequencing (NGS) datasets, clinical data, and advanced computational platforms like the Catalyst Project’s cloud resources—to identify and refine biomarkers. These biomarkers are then applied in the development of cutting-edge screening and diagnostic tools. The computational resources available to us have been instrumental in performing comprehensive bioinformatics analyses on genomic datasets. Currently, our AiBST community consists of five active participants, and we are committed to expanding this number through local and regional training initiatives.
 
 :::{pull-quote}
-Through the Catalyst Project we are able to bring genomic information interpretation to patient bedsides."
+"Through the Catalyst Project we are able to bring genomic information interpretation to patient bedsides."
 :::
 
 **What are you specifically using the cloud infrastructure for? What kinds of data are stored there? What software packages does your community use?**
