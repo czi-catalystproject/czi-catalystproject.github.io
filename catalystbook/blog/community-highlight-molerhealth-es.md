@@ -1,6 +1,6 @@
 ---
 blogpost: true
-# date: MMM DD, YYYY
+date: Oct 14, 2024
 author: Katie Pratt (CSCCE), Kevin Cabana, (MetaDocencia), Sabrina López (MetaDocencia)
 tags: Comunidades asociadas
 language: Español

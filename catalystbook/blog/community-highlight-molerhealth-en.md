@@ -1,6 +1,6 @@
 ---
 blogpost: true
-# date: MMM DD, YYYY
+date: Oct 14, 2024
 author: Katie Pratt (CSCCE), Sabrina López (MetaDocencia)
 tags: Community Partners
 language: English
