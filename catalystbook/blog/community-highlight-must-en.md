@@ -22,7 +22,7 @@ Dr. Bennett Kankuzi opening the MUST Catalyst Project Community Capacity Buildin
 We are the Catalyst Project Community at the Malawi University of Science and Technology (MUST) in Malawi. Our goal is to popularise the applicability of data science and artificial intelligence in various undergraduate and postgraduate research contexts in Malawi, including health, business, and education. Currently the MUST Catalyst Project community has more than 50 active users, with postgraduate students and faculty being primary users.
 
 :::{pull-quote}
-The Catalyst Project at Malawi University of Science and Technology has come at the right time when many staff and students needed a robust and easily accessible platform from which they could efficiently run their machine learning models and do advanced data analysis for their data science research without even being physically available on campus.
+"The Catalyst Project at Malawi University of Science and Technology has come at the right time when many staff and students needed a robust and easily accessible platform from which they could efficiently run their machine learning models and do advanced data analysis for their data science research without even being physically available on campus."
 :::
 
 **What are you specifically using the cloud infrastructure for? What kinds of data are stored there? What software packages does your community use?**
