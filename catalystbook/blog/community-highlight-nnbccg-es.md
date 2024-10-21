@@ -6,7 +6,7 @@ tags: Comunidades asociadas
 language: Español
 ---
 
-# Comunidad Asociada Destacada - Instituto Africano de Ciencia y Tecnología Nelson Mandela (NM-AIST)
+# Comunidad Asociada Destacada -  Nodo Nacional de Bioinformática (NNB-CCG)
 
 *Esta publicación es parte de una serie que destaca a [las Comunidades asociadas del Proyecto Catalyst](../current-community-partners.md), quienes están utilizando la infraestructura en la nube del Proyecto Catalyst para avanzar en diversos proyectos en las biociencias. Nuestras Comunidades asociadas también juegan un papel vital en la configuración de nuestro modelo de gobernanza, ayudándonos a sostener, escalar y maximizar el impacto en América Latina, África y comunidades desatendidas en todo el mundo.*
 
