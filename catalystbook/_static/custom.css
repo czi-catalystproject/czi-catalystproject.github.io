@@ -28,3 +28,10 @@ nav.bd-links .current > a {
   height: 25vh;
   object-fit: scale-down;
 }
+
+p.figure-caption {
+  color: var(--pst-color-text-muted);
+  font-family: var(--pst-font-family-heading);
+  font-weight: var(--pst-font-weight-caption);
+  font-size: 1em;
+}
