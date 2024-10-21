@@ -37,4 +37,4 @@ We have been participating in all of the [training](../training.md) offered by C
 A screenshot of the INER-Catalyst Team collaborating remotely thanks to the Catalyst Project.
 :::
 
-**Photo courtesy of Yalbi I. Balderas-Martinez.**
+*Photo courtesy of Yalbi I. Balderas-Martinez.*
