@@ -34,7 +34,7 @@ Hemos participado en todas [las capacitaciones](../training.md) ofrecidas por Ca
 
 :::{figure} ../images/blog/community-partner-highlights/iner.png
 :alt: A screenshot of a Zoom meeting with the INER team.
-A screenshot of the INER-Catalyst Team collaborating remotely thanks to the Catalyst Project.
+Captura de pantalla del equipo INER-Catalyst colaborando de manera remota gracias al Proyecto Catalyst.
 :::
 
 *Foto cortesía de Yalbi I. Balderas-Martinez.*
