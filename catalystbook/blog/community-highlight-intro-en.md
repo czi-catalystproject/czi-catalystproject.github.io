@@ -2,7 +2,7 @@
 blogpost: true
 date: Oct 28, 2024
 author: Katie Pratt (CSCCE), Sabrina López (MetaDocencia)
-tags: Community Partners
+tags: News
 language: English
 ---
 
@@ -10,7 +10,7 @@ language: English
 
 *The Catalyst Project is a community-engaged initiative designed to support the adoption of open science principles in under-served bioscientific research communities through the provision of reliable and sustainable cloud computing infrastructure. It’s a project we’ve been working on now for almost two years, which involves staff from seven different organizations: [2i2c](https://2i2c.org/),, [The Carpentries](https://carpentries.org/about/), [CCAD](https://ccad.unc.edu.ar/), [CSCCE](https://www.cscce.org/), [IOI](http://investinopen.org/), [MetaDocencia](http://metadocencia.org/), and [OLS](http://openlifesci.org/), and is funded by the Chan Zuckerberg Initiative.*
 
-A key part of the project is engaging with Community Partners in Africa and Latin America: Institutions, organizations, and individuals who are undertaking bioscientific research projects that require cloud computing infrastructure. As collaborators on the Catalyst Project, Community Partners can access and use 2i2c’s open science cloud services, and also receive training from 2i2c, The Carpentries, MetaDocencia, and OLS to support their work. Community Partners also play a vital role in shaping an evolving governance model for the Catalyst Project to help sustain, scale, and maximize impact in Latin America, Africa, and under-served communities around the world.
+A key part of the project is engaging with Community Partners in Africa and Latin America: Institutions, organizations, and individuals who are undertaking bioscientific research projects that require cloud computing infrastructure. As collaborators on the Catalyst Project, Community Partners can access and use 2i2c’s open science cloud services, and also receive training from 2i2c, The Carpentries, MetaDocencia, and OLS to support their work. [Community Partners](../current-community-partners.md) also play a vital role in shaping an evolving governance model for the Catalyst Project to help sustain, scale, and maximize impact in Latin America, Africa, and under-served communities around the world.
 
 In a new collection of blog posts (that we hope will expand over the next couple of months!) we’re highlighting the work of the Catalyst Project Community Partners. This post is a gateway to learning more about the Catalyst Project and its Community Partners. If you have any questions or feedback about the project, please [send an email to the core team](../contact.md).
 
