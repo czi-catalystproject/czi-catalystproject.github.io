@@ -1,7 +1,7 @@
 ---
 blogpost: true
 date: Oct 28, 2024
-author: Katie Pratt (CSCCE), Sabrina López (MetaDocencia)
+author: Yalbi I. Balderas-Martinez (INER), Katie Pratt (CSCCE), Sabrina López (MetaDocencia)
 tags: Community Partners
 language: English
 ---

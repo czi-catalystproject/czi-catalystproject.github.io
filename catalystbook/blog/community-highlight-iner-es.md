@@ -1,7 +1,7 @@
 ---
 blogpost: true
 date: Oct 28, 2024
-author: Katie Pratt (CSCCE), Kevin Cabana, (MetaDocencia), Sabrina López (MetaDocencia)
+author: Yalbi I. Balderas-Martinez (INER), git Katie Pratt (CSCCE), Kevin Cabana, (MetaDocencia), Sabrina López (MetaDocencia)
 tags: Comunidades asociadas
 language: Español
 ---
