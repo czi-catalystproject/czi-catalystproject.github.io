@@ -1,7 +1,7 @@
 ---
 blogpost: true
 date: Oct 14, 2024
-author: Katie Pratt (CSCCE), Kevin Cabana (MetaDocencia), Sabrina López (MetaDocencia)
+author: Zedias Chikwambi (AiBST), Katie Pratt (CSCCE), Kevin Cabana (MetaDocencia), Sabrina López (MetaDocencia)
 tags: Comunidades asociadas
 language: Español
 ---
@@ -34,3 +34,5 @@ Además, utilizamos un sistema de gestión de información genómica que nos per
 **¿Podrías contarnos cómo fue hasta ahora tu experiencia con el Proyecto Catalyst? Por ejemplo, ¿has participado en alguna capacitación ofrecida por Catalyst? ¿Qué es lo que has disfrutado más?**
 
 Tanto yo como dos miembros de mi comunidad hemos tenido la suerte de formarnos como Instructores/as de The Carpentries. También he recibido formación como [Campeón de Hub de 2i2c](../training.md) para la comunidad de AiBST. Estos roles me han dotado de las habilidades necesarias para satisfacer las diversas necesidades de los miembros de nuestra comunidad. Lo más emocionante es que nuestra comunidad ha sido aceptada en el próximo programa de mentoría de Open Life Science (OLS), el cual estamos ansiosos por comenzar.
+
+*Foto cortesía de Zedias Chikwambi.*
