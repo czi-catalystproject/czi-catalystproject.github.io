@@ -1,7 +1,7 @@
 ---
 blogpost: true
 date: Oct 14, 2024
-author: Katie Pratt (CSCCE), Sabrina López (MetaDocencia)
+author: Monsurat Onabajo (MolerHealth), Katie Pratt (CSCCE), Sabrina López (MetaDocencia)
 tags: Community Partners
 language: English
 ---

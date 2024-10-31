@@ -1,7 +1,7 @@
 ---
 blogpost: true
 date: Oct 14, 2024
-author: Katie Pratt (CSCCE), Kevin Cabana, (MetaDocencia), Sabrina López (MetaDocencia)
+author: Monsurat Onabajo (MolerHealth), Katie Pratt (CSCCE), Kevin Cabana, (MetaDocencia), Sabrina López (MetaDocencia)
 tags: Comunidades asociadas
 language: Español
 ---
