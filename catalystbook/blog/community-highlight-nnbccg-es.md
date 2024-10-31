@@ -1,7 +1,7 @@
 ---
 blogpost: true
 date: Oct 28, 2024
-author: Katie Pratt (CSCCE), Kevin Cabana, (MetaDocencia), Sabrina López (MetaDocencia)
+author:  Shirley Alquicira Hernández and Irma Martínez Flores (NNB-CCG), Katie Pratt (CSCCE), Kevin Cabana, (MetaDocencia), Sabrina López (MetaDocencia)
 tags: Comunidades asociadas
 language: Español
 ---
