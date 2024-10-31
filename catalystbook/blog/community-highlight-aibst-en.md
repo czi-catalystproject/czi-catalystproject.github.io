@@ -1,7 +1,7 @@
 ---
 blogpost: true
 date: Oct 14, 2024
-author: Katie Pratt (CSCCE), Sabrina López (MetaDocencia)
+author: Katie Pratt (CSCCE), Sabrina López (MetaDocencia), Zedias Chikwambi (AiBST)
 tags: Community Partners
 language: English
 ---
