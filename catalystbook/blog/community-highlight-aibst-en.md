@@ -1,7 +1,7 @@
 ---
 blogpost: true
 date: Oct 14, 2024
-author: Katie Pratt (CSCCE), Sabrina López (MetaDocencia)
+author: Zedias Chikwambi (AiBST), Katie Pratt (CSCCE), Sabrina López (MetaDocencia)
 tags: Community Partners
 language: English
 ---
@@ -34,3 +34,5 @@ In addition, we use a genomic information management system to effectively conve
 **Can you tell us about your experience with the Catalyst Project so far? E.g., have you participated in any training options through Catalyst? What have you enjoyed most so far?**
 
 Myself and two of my community members are fortunate to have been trained as Carpentries Instructors. I have also been trained as a [2i2c Hub Champion](../training.md) for the AiBST community. These roles have equipped me with the skills needed to meet the diverse needs of our community members. Excitingly, our community has also been accepted into the upcoming Open Life Science (OLS) mentorship program, which we are eager to begin.
+
+*Photo courtesy of Zedias Chikwambi*
