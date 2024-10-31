@@ -1,7 +1,7 @@
 ---
 blogpost: true
 date: Oct 28, 2024
-author: Katie Pratt (CSCCE), Sabrina López (MetaDocencia)
+author: María Inés Fariello Rico (CICADA), Katie Pratt (CSCCE), Sabrina López (MetaDocencia)
 tags: Community Partners
 language: English
 ---
