@@ -1,14 +1,14 @@
 ---
 blogpost: true
 date: Oct 28, 2024
-author: Katie Pratt (CSCCE), Kevin Cabana (MetaDocencia), Sabrina López (MetaDocencia)
+author: Katie Pratt (CSCCE), Kevin Cabana (MetaDocencia), Irene Vazano (MetaDocencia)
 tags: Novedades
 language: Español
 ---
 
 # Presentando a las Comunidades Asociadas Destacadas del Proyecto Catalyst
 
-*El Proyecto Catalyst es una iniciativa comunitaria diseñada para apoyar la adopción de los principios de ciencia abierta en comunidades de investigación biocientífica subatendidas, a través de la provisión confiable y sostenible de infraestructura de computación en la nube. Es un proyecto en el que hemos estado trabajando durante casi dos años, involucrando al personal de siete organizaciones diferentes: [2i2c](https://2i2c.org/), [The Carpentries](https://carpentries.org/about/), [CCAD](https://ccad.unc.edu.ar/), [CSCCE](https://www.cscce.org/), [IOI](http://investinopen.org/), [MetaDocencia](http://metadocencia.org/), y [OLS](http://openlifesci.org/), y financiado por la Chan Zuckerberg Initiative (en español, Iniciativa Chan Zuckerberg*
+*El Proyecto Catalyst es una iniciativa comunitaria diseñada para apoyar la adopción de los principios de ciencia abierta en comunidades de investigación biocientífica subatendidas, a través de la provisión confiable y sostenible de infraestructura de computación en la nube. Es un proyecto en el que hemos estado trabajando durante casi dos años, involucrando al personal de siete organizaciones diferentes: [2i2c](https://2i2c.org/), [The Carpentries](https://carpentries.org/about/), [CCAD](https://ccad.unc.edu.ar/), [CSCCE](https://www.cscce.org/), [IOI](http://investinopen.org/), [MetaDocencia](http://metadocencia.org/) y [OLS](http://openlifesci.org/), y financiado por la Chan Zuckerberg Initiative (en español, Iniciativa Chan Zuckerberg)*
 
 Una parte clave del proyecto es la colaboración con Comunidades Asociadas en África y América Latina: instituciones, organizaciones e individuos que están llevando a cabo proyectos de investigación biocientífica que requieren infraestructura de computación en la nube. Como colaboradores del Proyecto Catalyst, las Comunidades Asociadas pueden acceder y utilizar los servicios de ciencia abierta en la nube de 2i2c, y también recibir capacitación de 2i2c, The Carpentries, MetaDocencia y OLS para apoyar su trabajo. [Las Comunidades Asociadas](../current-community-partners.md) también desempeñan un papel fundamental en la formación de un modelo de gobernanza en evolución para el Proyecto Catalyst, ayudando a garantizar su sostenibilidad, escalabilidad y máximo impacto en América Latina, África y otras comunidades subatendidas en todo el mundo.
 
@@ -23,7 +23,7 @@ El Proyecto Catalyst actualmente involucra a 19 Comunidades Asociadas, 9 en Áfr
 :img-top: ../images/community-partner-logos/aibst-logo.jpg
 En AiBST, en Zimbabue, Zedias Chikwambi y sus colegas están trabajando para descubrir y utilizar biomarcadores que guíen el tratamiento médico personalizado.
 
-*""Gracias al Proyecto Catalyst, podemos llevar la interpretación de la información genómica a las camas de los pacientes." - Zedias Chikwambi*
+*"Gracias al Proyecto Catalyst, podemos llevar la interpretación de la información genómica a las camas de los pacientes." - Zedias Chikwambi*
 +++
 Lee más: [EN](./community-highlight-aibst-en.md) | [ES](./community-highlight-aibst-es.md)
 :::
@@ -50,7 +50,7 @@ Lee más: [EN](./community-highlight-molerhealth-en.md) | [ES](./community-highl
 :img-top: ../images/community-partner-logos/nm-aist-logo.png
 El Grupo de Investigación One Health en el Norte de Tanzania, alojado en el instituto NM-AIST, está utilizando la infraestructura de la nube del Proyecto Catalyst para comprender la dinámica de transmisión, la diversidad genética y la resistencia a los antimicrobianos del complejo Mycobacterium tuberculosis (Mtb) entre humanos y ganado en el norte de Tanzania.
 
-*"...el acceso a la formación, especialmente a través de la Capacitación de Hub Champion de 2i2c, ha mejorado significativamente nuestra capacidad para gestionar y optimizar los recursos en la nube." - Beatus M Lyimo*
+*"...el acceso a la formación, especialmente a través de la Capacitación para Campeones y Campeonas del Hub de 2i2c, ha mejorado significativamente nuestra capacidad para gestionar y optimizar los recursos en la nube." - Beatus M. Lyimo*
 +++
 Lee más: [EN](./community-highlight-nmaist-en.md) | [ES](./community-highlight-nmaist-es.md)
 :::
@@ -68,7 +68,7 @@ Lee más: [EN](./community-highlight-nnbccg-en.md) | [ES](./community-highlight-
 :img-top: ../images/community-partner-logos/iner-logo.jpeg
 Los colaboradores del Instituto Nacional de Enfermedades Respiratorias (INER) están utilizando la infraestructura en la nube de Catalyst para implementar algoritmos de aprendizaje automático para clasificar imágenes radiológicas de tromboembolismo pulmonar (TEP), con el objetivo de mejorar los resultados para los pacientes.
 
-*""El Proyecto Catalyst nos está ayudando a colaborar de manera más eficiente y a trabajar de forma remota." - Yalbi I. Balderas-Martinez*
+*"El Proyecto Catalyst nos está ayudando a colaborar de manera más eficiente y a trabajar de forma remota." - Yalbi I. Balderas-Martinez*
 +++
 Lee más: [EN](./community-highlight-iner-en.md) | [ES](./community-highlight-iner-es.md)
 :::
@@ -77,7 +77,7 @@ Lee más: [EN](./community-highlight-iner-en.md) | [ES](./community-highlight-in
 :img-top: ../images/community-partner-logos/cicada-logo.png
 CICADA, un centro interdisciplinario que investiga ciencia de datos y aprendizaje automático, está utilizando la infraestructura de la nube del Proyecto Catalyst para analizar datos de la población uruguaya con el fin de comprender los patrones de migración, cuánto del legado nativo permanece y qué se puede decir sobre las personas que vivieron en el territorio uruguayo antes de la llegada de los europeos.
 
-*"Los entrenamientos del Proyecto Catalyst son atractivos, ya que son respetuosos con las personas, no se asume conocimiento previo, y los instructores son acogedores." - María Inés Fariello Rico *
+*"Los entrenamientos del Proyecto Catalyst son atractivos, ya que son respetuosos con las personas, no se asume conocimiento previo, y los instructores son acogedores." - María Inés Fariello Rico*
 +++
 Lee más: [EN](./community-highlight-cicada-en.md) | [ES](./community-highlight-cicada-es.md)
 :::
@@ -85,7 +85,7 @@ Lee más: [EN](./community-highlight-cicada-en.md) | [ES](./community-highlight-
 
 ## Acerca de estas publicaciones – Agradecimientos
 
-Crear una serie de publicaciones para destacar el trabajo de las Comunidades Asociadas del Proyecto Catalyst fue un esfuerzo colaborativo que involucró al personal de CSCCE, 2i2c, OLS y MetaDocencia. Específicamente, Lou Woodley, Katie Pratt, Jenny Wong y Tajuddeen Gwadabe concibieron la idea durante nuestras reuniones regulares del equipo del "sitio web" del Proyecto Catalyst, y desarrollaron una estrategia para contactar a los socios comunitarios para recopilar información.
+Crear una serie de publicaciones para destacar el trabajo de las Comunidades Asociadas del Proyecto Catalyst fue un esfuerzo colaborativo que involucró al personal de CSCCE, 2i2c, OLS y MetaDocencia. Específicamente, Lou Woodley, Katie Pratt, Jenny Wong y Tajuddeen Gwadabe concibieron la idea durante nuestras reuniones regulares del equipo del "sitio web" del Proyecto Catalyst, y desarrollaron una estrategia para contactar a las comunidades asociadas para recopilar información.
 
 Katie lideró el contacto, que involucró a un representante de cada Comunidad Asociada completando un formulario de Google para responder tres preguntas clave y compartir una foto (o una selección de fotos) para usar en el blog. Katie reunió toda la información, editó las publicaciones del blog y se aseguró de tener la aprobación de todos los participantes. Sabrina López coordinó la traducción de las publicaciones de inglés al español, y Jenny las formateó y publicó en el sitio web.
 
