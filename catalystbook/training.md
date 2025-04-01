@@ -2,7 +2,6 @@
 
 The Catalyst Project offers three training opportunities for Community Partners. These are designed to offer participants technical training in maintaining their local cloud computing hub, the skills to pass on that knowledge to others in their community, and the opportunity to connect and learn alongside the global open science community.
 
-
 :::{button-ref} community-partnership
 :align: center
 :color: primary
@@ -65,8 +64,8 @@ Participating in this training will also connect learners to a growing community
 
 **Supported languages:** This training is only available in English.
 
-**Registration information:** Applications open July 1 2024 and Community Partner leaders will be contacted by email.
+**Registration information:** Applications are now closed.
 
 ## More information
 
-We will post updates about upcoming training opportunities on the Catalyst Project Blog. If you have any questions, please contact [catalyst-project-core-team@googlegroups.com](mailto:catalyst-project-core-team@googlegroups.com).
+We post updates about upcoming training opportunities on the Catalyst Project Blog. If you have any questions, please [contact us](./contact.md)

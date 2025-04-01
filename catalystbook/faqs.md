@@ -22,7 +22,7 @@ Any collaborator or learner associated with your institution can use the hub for
 
 ### How long is the service available for?
 
-Funding from CZI is currently available until November 2025. Get in touch with us if you would like to work with us to explore funding opportunities.
+The hub service provided by 2i2c is guaranteed until November 2025. [Get in touch with us](contact.md) if you would like to work with us to explore funding opportunities and collaborations.
 
 ### What happens to my data after the service ends?
 
@@ -32,7 +32,7 @@ The Catalyst Project will confirm with you before any data is deleted from your 
 
 You can find the onboarding document on Zenodo: [English version](https://zenodo.org/records/10853513), [Spanish version](https://zenodo.org/records/10852825).
 
-## Best Practises
+## Best Practices
 
 ### Can I store sensitive data, such as health records and patient information, on the hub?
 
@@ -40,13 +40,13 @@ No, we do not recommend that you store sensitive data on the hub for security re
 
 ### What training is available for using the hub?
 
-Take a look at our [Training](training.md) page for a comprehensive list of training provided by The Catalyst Project.
+Training is now closed, but take a look at our [Training](training.md) page for a comprehensive list of training that was provided by The Catalyst Project.
 
 ## Technical Questions
 
 ### What is meant by cloud infrastructure?
 
-Cloud infrastructure refers to the hardware and software components to provide a cloud computing environment. In the case of The Catalyst Project, this means the infrastructure used to deliver an interactive computing platform. See the [2i2c website](https://2i2c.org/platform/) for mor information.
+Cloud infrastructure refers to the hardware and software components to provide a cloud computing environment. In the case of The Catalyst Project, this means the infrastructure used to deliver an interactive computing platform. See the [2i2c website](https://2i2c.org/platform/) for more information.
 
 ### What is the maximum number of users allowed on the hub?
 
@@ -70,11 +70,11 @@ Need more resources? Please [contact](./contact.md) us and we'll work with you t
 
 ### Are GPU computing resources available?
 
-This feature is not available on all Catalyst hubs by default. We are happy to enable GPUs for your hub if required – please contact [2i2c support](https://docs.2i2c.org/support/).
+This feature is not available on all Catalyst hubs by default. We are happy to enable GPUs for your hub if required – please [contact us](./contact.md).
 
 ### Is shared object storage available?
 
-This feature is not available on all Catalyst hubs by default. We are happy to enable [shared object storage](https://docs.2i2c.org/user/topics/data/object-storage/) for your hub if required – please contact [2i2c support](https://docs.2i2c.org/support/).
+This feature is not available on all Catalyst hubs by default. We are happy to enable [shared object storage](https://docs.2i2c.org/user/topics/data/object-storage/) for your hub if required – please [contact us](./contact.md).
 
 ### How do I install software on the hub?
 

@@ -1,6 +1,6 @@
 # Team
 
-The Catalyst Project Core Team includes personnel from seven open science organisations, listed alphabetically below. To find out more about the individual team members check out the [People page](people.md).
+The Catalyst Project Core Team served from 2023 to March 2025 and includes personnel from seven open science organisations, listed alphabetically below. To find out more about the individual team members check out the [People page](people.md).
 
 ::::::{card} 
 :link: https://2i2c.org/
