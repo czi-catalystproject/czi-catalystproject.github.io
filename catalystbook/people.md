@@ -2,7 +2,7 @@
 
 ## Core Team
 
-The Catalyst Project Core Team includes personnel from seven open science organisations. Meet the team members below, grouped alphabetically by their organisational affiliation. The person listed first for each organisation is the primary point of contact for the Catalyst Project. 
+The Catalyst Project Core Team included personnel from seven open science organisations. Meet the team members below, grouped alphabetically by their organisational affiliation. The person listed first for each organisation is the primary point of contact for the Catalyst Project.
 
 ### 2i2c
 

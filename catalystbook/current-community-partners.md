@@ -14,7 +14,7 @@ kernelspec:
 
 # Current community partners
 
-During the initial phase the Catalyst Project aims to work with 10 community partners in Africa and a further 10 in Latin America. You can find the currently active community partners listed below. Where websites are available these are linked from each partner’s logo.
+The Catalyst Project works with 9 community partners in Africa and a further 10 in Latin America. You can find the currently active community partners listed below. Where websites are available these are linked from each partner’s logo.
 
 ## Africa
 

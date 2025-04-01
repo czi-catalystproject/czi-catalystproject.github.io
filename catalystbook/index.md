@@ -1,10 +1,10 @@
 # The Catalyst Project
 
-The Catalyst Project is a community-engaged initiative designed to support the adoption of open science principles in under-served biomedical research communities through the provision of reliable and sustainable cloud computing infrastructure. 
+The Catalyst Project is a community-engaged initiative designed to support the adoption of open science principles in under-served bioscience research communities through the provision of reliable and sustainable cloud computing infrastructure.
 
-The project, which is funded by the [Chan Zuckerberg Initiative (CZI)](https://chanzuckerberg.com/), is a collaboration between  seven organisations, who bring the  breadth of open science skills and backgrounds needed. These include expertise in: technology deployment, community building and governance, training development and delivery, as well as organisations with  existing connections in our partner locations. 
+The project, which is funded by the [Chan Zuckerberg Initiative (CZI)](https://chanzuckerberg.com/), is a collaboration between  seven organisations, who bring the  breadth of open science skills and backgrounds needed. These include expertise in: technology deployment, community building and governance, training development and delivery, as well as organisations with  existing connections in our partner locations.
 
-Our work is continuously influenced by contextual feedback from the biomedical researchers, engineers, and computer scientists that we serve in Africa and Latin America. 
+Our work is continuously influenced by contextual feedback from the bioscience researchers, engineers, and computer scientists that we serve in Africa and Latin America.
 
 :::{figure} https://2i2c.org/kpis/_downloads/10da5b6edd481aa0c5fc8a706771ecb9/Catalyst_map.png
 :alt: Map showing locations of Catalyst Project hubs.
@@ -22,7 +22,7 @@ Learn more about the project
 
 ## Get Involved
 
-If you’re working at a research institution or nonprofit in Africa or Latin America, and you need high-throughput computing infrastructure to undertake biomedical research or data science training efforts, we’d love to hear from you!
+If you’re working at a research institution or nonprofit in Africa or Latin America, and you need high-throughput computing infrastructure to undertake bioscience research or data science training efforts, we’d love to hear from you!
 
 :::{button-ref} community-partnership
 :align: center
@@ -31,9 +31,18 @@ If you’re working at a research institution or nonprofit in Africa or Latin Am
 Find out more about Catalyst Project Community Partnership
 :::
 
-## Catalyst Project Core Team
+## Catalyst Project Service
 
-The Catalyst Project is staffed by members of the following organisations:
+The Catalyst Project continues to provide cloud computing infrastructure to researchers and educators in Africa and Latin America. 2i2c seeks to work with communities to find mechanisms to extend their service period. This may include options to:
+
+- Enter into new partnership service agreements (between 2i2c and communities)
+- Help communities identify funding (and where possible, collaborate to co-write grants)
+
+For contact information, please visit our [Contact page](contact.md).
+
+## Catalyst Project Core Team (up to Mar 2025)
+
+The Catalyst Project was staffed by members of the following organisations from 2023 to March 2025:
 
 <br>
 
