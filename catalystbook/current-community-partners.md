@@ -76,7 +76,7 @@ Nigeria
 :::{grid-item-card}
 :img-top: images/community-partner-logos/bhki-logo.png
 :img-alt: Logo for Bioinformatics Hub of Kenya Initiative
-:link: https://bhki.org/
+:link: https://bioinformatics-hub-ke.github.io/
 Bioinformatics Hub of Kenya Initiative
 +++
 Kenya
